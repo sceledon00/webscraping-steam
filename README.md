@@ -2,7 +2,9 @@
 ## _Analítica Descriptiva - Factores de éxito en los géneros de videojuegos_
 
 #### Descripción
-El presente proyecto explora los factores que contribuyen al éxito de los videojuegos, con un enfoque principal en el análisis de género. Se profundiza en cómo los géneros de videojuegos como de acción, aventura e indie influyen en métricas como reseñas, calificaciones, precios y participación de los jugadores. Utilizando datos de Steam, el estudio investiga las relaciones entre estas variables, ofreciendo información valiosa para desarrolladores, editores y distribuidores a la hora de optimizar sus estrategias para alcanzar el éxito en el mercado. Se trabajo con mas 7000 datos y los hallazgos se presentaron mediante análisis estadísticos, incluidas pruebas ANOVA y Levene ente otras.
+El presente proyecto explora los factores que contribuyen al éxito de los videojuegos, con un enfoque principal en el análisis de género. Se profundiza en cómo los géneros de videojuegos como de acción, aventura e indie influyen en métricas como reseñas, calificaciones, precios y participación de los jugadores. 
+Utilizando datos de Steam, el estudio investiga las relaciones entre estas variables, ofreciendo información valiosa para desarrolladores, editores y distribuidores a la hora de optimizar sus estrategias para alcanzar el éxito en el mercado. 
+Se trabajo con mas 7000 datos y los hallazgos se presentaron mediante análisis estadísticos, incluidas pruebas ANOVA y Levene ente otras.
 
 ## Contenido
 - Webscpraing steam.ipynb: Codigo utilizado tanto para la extracción de los datos como su posterior limpieza y analisis.
@@ -34,7 +36,7 @@ El presente proyecto explora los factores que contribuyen al éxito de los video
 ## _Webscapring steam.ipynb_:  
 Este nootebook cuenta con la extracción de los datos y la posterior manipulación de estos, ademas cuenta con las instalaciones de las librerias necesarias en caso de no contar con estas, por ende su uso se limita al navegador web, el cual se utilizó "Brave" y se recomienda configurarlo como predeterminado.
 
-## _df_juegos_limpio.SCV_:
+## _df_juegos_limpio.csv_:
 Archivo csv utilizado para el análisis su visualizacion, si se desea no realizar el webscraping, puede implementar este archivo desde la sección de "Visualización y Analisis de datos" que se encuentra en el codigo pricipal (Webscraping steam.ipynb)
 
 ## Licencia
