@@ -10,7 +10,9 @@ Se trabajó con más 7000 datos y los hallazgos se presentaron mediante análisi
 
 
 ## Contenido
-- Webscpraing steam.ipynb: Codigo utilizado tanto para la extracción de los datos como su posterior limpieza y análisis.
+
+- Webscraping steam V1.ipynb: Versión número 1, donde solamente se extraen los datos y se realizan visualizaciones para encontrar errores para su posterior limpieza.
+- Webscpraing steam V2.ipynb: Codigo final utilizado tanto para la extracción de los datos como su posterior limpieza y análisis.
   
 - Analitica Webscraping Steam.pdf: Informe realizado en latex donde se menciona todo el desarrollo del proyecto y el porqué se escogieron ciertos parametros.
   
