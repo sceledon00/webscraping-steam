@@ -1,0 +1,956 @@
+﻿Nombre;Precio;Fecha de Lanzamiento;Plataformas;Total de Reseñas;Porcentaje de Positividad;Categoria de Reseñas;Generos
+Counter-Strike 2;0.0;Aug 21, 2012;['Windows', 'Linux'];2436198;87;Mayormente Positivo;Action,Free To Play
+Warhammer 40,000: Space Marine 2;59.99;Sep 9, 2024;['Windows'];70883;81;Muy Positivo;Action,Adventure,RPG
+THRONE AND LIBERTY;0.0;Oct 1, 2024;['Windows'];8876;54;Mixto;Action,Adventure,Massively Multiplayer,RPG,Free To Play
+TCG Card Shop Simulator;12.99;Sep 15, 2024;['Windows'];6816;96;Absolutamente Positivo;Simulation,Early Access
+Dota 2;0.0;Jul 9, 2013;['Windows', 'Mac', 'Linux'];2329292;81;Mayormente Positivo;Action,Strategy,Free To Play
+Baldur's Gate 3;59.99;Aug 3, 2023;['Windows', 'Mac'];585000;96;Absolutamente Positivo;Adventure,RPG,Strategy
+Warframe;0.0;Mar 25, 2013;['Windows'];592551;87;Muy Positivo;Action,RPG,Free To Play
+EA SPORTS FC™ 25;69.99;Sep 26, 2024;['Windows'];8169;49;Mixto;Simulation,Sports
+Apex Legends™;0.0;Nov 4, 2020;['Windows'];950779;68;Mayormente Negativo;Action,Adventure,Free To Play
+Once Human;0.0;Jul 9, 2024;['Windows'];92636;72;Mayormente Positivo;Action,Adventure,RPG,Simulation,Strategy,Free To Play
+Black Myth: Wukong;59.99;Aug 19, 2024;['Windows'];681733;96;Absolutamente Positivo;Action,Adventure,RPG
+Satisfactory;39.99;Sep 10, 2024;['Windows'];158139;96;Muy Positivo;Adventure,Indie,Simulation,Strategy
+Tiny Glade;12.74;Sep 23, 2024;['Windows', 'Linux'];5418;96;Absolutamente Positivo;Casual,Indie,Simulation
+The Forever Winter;26.99;Sep 24, 2024;['Windows'];8826;74;Mayormente Positivo;Action,Early Access
+Dead by Daylight;19.99;Jun 14, 2016;['Windows'];541252;80;Mayormente Positivo;Action
+War Thunder;0.0;Aug 15, 2013;['Windows', 'Mac', 'Linux', 'Group_separator'];546205;72;Mixto;Action,Massively Multiplayer,Simulation,Free To Play
+Witchfire;35.99;Sep 23, 2024;['Windows'];1796;90;Muy Positivo;Action,Early Access
+NBA 2K25;69.99;Sep 3, 2024;['Windows'];4594;57;Mixto;Simulation,Sports
+God of War Ragnarök;59.99;Sep 19, 2024;['Windows'];6579;75;Mayormente Positivo;Action,Adventure,RPG
+HELLDIVERS™ 2;39.99;Feb 8, 2024;['Windows'];668601;73;Mayormente Positivo;Action
+Crusader Kings III;49.99;Sep 1, 2020;['Windows', 'Mac', 'Linux'];73436;91;Muy Positivo;RPG,Simulation,Strategy
+Warhammer 40,000: Rogue Trader;29.99;Dec 7, 2023;['Windows', 'Mac'];13801;78;Muy Positivo;Adventure,Indie,RPG,Strategy
+Tom Clancy's Rainbow Six® Siege;19.99;Dec 1, 2015;['Windows'];1123924;85;Mayormente Positivo;Action
+ELDEN RING;59.99;Feb 24, 2022;['Windows'];707697;92;Muy Positivo;Action,RPG
+FINAL FANTASY XVI;49.99;Sep 17, 2024;['Windows'];5300;77;Mayormente Positivo;Action,RPG
+FINAL FANTASY XIV Online;19.99;Feb 18, 2014;['Windows'];70450;87;Mayormente Positivo;Massively Multiplayer,RPG
+Destiny 2;0.0;Oct 1, 2019;['Windows'];612297;80;Mixto;Action,Adventure,Free To Play
+Grand Theft Auto V;20.4;Apr 13, 2015;['Windows'];1719243;87;Muy Positivo;Action,Adventure
+Rust;39.99;Feb 8, 2018;['Windows', 'Mac'];915044;87;Muy Positivo;Action,Adventure,Indie,Massively Multiplayer,RPG
+The First Descendant;0.0;Jun 30, 2024;['Windows'];87574;54;Mixto;Action,Adventure,RPG,Free To Play
+Fallout 76;39.99;Apr 14, 2020;['Windows'];61649;75;Mayormente Positivo;RPG
+The Elder Scrolls® Online;5.99;May 22, 2017;['Windows', 'Mac'];122968;83;Mayormente Positivo;Action,Adventure,Massively Multiplayer,RPG
+Frostpunk 2;44.99;Sep 20, 2024;['Windows', 'Mac'];9112;73;Mayormente Positivo;Simulation,Strategy
+Cyberpunk 2077;59.99;Dec 9, 2020;['Windows'];682838;84;Muy Positivo;RPG
+Diablo® IV;49.99;Oct 17, 2023;['Windows'];23953;73;Mayormente Positivo;Action,RPG
+Lost Ark;0.0;Feb 11, 2022;['Windows'];200631;71;Mixto;Action,Adventure,Massively Multiplayer,RPG,Free To Play
+Team Fortress 2;0.0;Oct 10, 2007;['Windows', 'Linux'];1119360;88;Muy Positivo;Action,Free To Play
+Squad;19.99;Sep 23, 2020;['Windows'];139081;83;Muy Positivo;Action,Indie,Massively Multiplayer,Strategy
+The Sims™ 4;0.0;Jun 18, 2020;['Windows'];150358;87;Muy Positivo;Adventure,Casual,Simulation,Free To Play
+LOCKDOWN Protocol;9.99;Jul 22, 2024;['Windows'];4069;91;Muy Positivo;Action,Casual,Indie,Strategy,Early Access
+Starfield;69.99;Sep 5, 2023;['Windows'];104086;59;Mixto;RPG
+Monster Hunter: World;9.89;Aug 9, 2018;['Windows'];276900;88;Muy Positivo;Action
+DARK SOULS™ III;29.99;Apr 11, 2016;['Windows'];249675;94;Muy Positivo;Action
+SWORD ART ONLINE Fractured Daydream;59.99;Oct 3, 2024;['Windows'];273;82;Muy Positivo;Action,Casual,RPG
+Ghost of Tsushima DIRECTOR'S CUT;59.99;May 16, 2024;['Windows'];28363;92;Muy Positivo;Action,Adventure
+TEKKEN 8;39.89;Jan 25, 2024;['Windows'];24197;70;Mixto;Action
+EA SPORTS™ Madden NFL 25;69.99;Aug 15, 2024;['Windows'];957;48;Mixto;Simulation,Sports,Strategy
+Crusader Kings III: Roads to Power;29.99;Sep 24, 2024;['Windows', 'Mac', 'Linux'];1430;89;Muy Positivo;RPG,Simulation,Strategy
+Age of Mythology: Retold;29.99;Sep 4, 2024;['Windows'];9002;89;Muy Positivo;Strategy
+Borderlands 3;5.99;Mar 13, 2020;['Windows'];107631;85;Muy Positivo;Action,RPG
+Magic: The Gathering Arena;0.0;May 23, 2023;['Windows'];13751;64;Mixto;Strategy,Free To Play
+American Truck Simulator;19.99;Feb 2, 2016;['Windows', 'Mac', 'Linux'];131757;97;Muy Positivo;Indie,Simulation
+UFO 50;24.99;Sep 18, 2024;['Windows'];2091;96;Absolutamente Positivo;Action,Adventure,Indie,RPG,Strategy
+Call of Duty®;0.0;Oct 27, 2022;['Windows'];333986;54;Mixto;Action
+Ready or Not;49.99;Dec 13, 2023;['Windows'];152214;88;Muy Positivo;Action,Adventure,Indie
+Warhammer 40,000: Darktide;19.99;Nov 30, 2022;['Windows'];81556;68;Muy Positivo;Action,Adventure,Indie
+Age of Wonders 4;32.49;May 2, 2023;['Windows'];11195;81;Mayormente Positivo;Strategy
+THE FINALS;0.0;Dec 7, 2023;['Windows'];185667;75;Mayormente Positivo;Action,Free To Play
+MARVEL SNAP;0.0;Aug 22, 2023;['Windows'];27520;82;Muy Positivo;Casual,Strategy,Free To Play
+Yu-Gi-Oh! Master Duel;0.0;Jan 18, 2022;['Windows'];77131;75;Mixto;Simulation,Strategy,Free To Play
+Red Dead Redemption 2;59.99;Dec 5, 2019;['Windows'];573847;91;Muy Positivo;Action,Adventure
+MapleStory;0.0;Aug 9, 2012;['Windows'];13071;63;Mixto;Action,Adventure,Casual,Massively Multiplayer,RPG,Free To Play
+Call of Duty®: Black Ops III;59.99;Nov 5, 2015;['Windows', 'Mac'];132828;87;Muy Positivo;Action,Adventure
+PUBG: BATTLEGROUNDS;0.0;Dec 21, 2017;['Windows'];2436667;58;Mixto;Action,Adventure,Massively Multiplayer,Free To Play
+REMNANT II®;49.99;Jul 25, 2023;['Windows'];37803;83;Mayormente Positivo;Action,Adventure,RPG
+Phasmophobia;19.99;Sep 18, 2020;['Windows', 'Group_separator'];578212;96;Muy Positivo;Action,Indie,Early Access
+Stardew Valley;14.99;Feb 26, 2016;['Windows', 'Mac', 'Linux'];645892;98;Absolutamente Positivo;Indie,RPG,Simulation
+Lethal Company;9.99;Oct 23, 2023;['Windows'];351040;97;Absolutamente Positivo;Action,Adventure,Indie,Early Access
+Tactical Breach Wizards;17.99;Aug 22, 2024;['Windows'];5244;98;Absolutamente Positivo;Adventure,Indie,RPG,Strategy
+Risk of Rain 2;24.99;Aug 11, 2020;['Windows'];199240;93;Mixto;Action,Indie
+Manor Lords;27.99;Apr 26, 2024;['Windows'];48068;87;Muy Positivo;Simulation,Strategy,Early Access
+Cyberpunk 2077: Phantom Liberty;29.99;Sep 25, 2023;['Windows'];15851;89;Muy Positivo;RPG
+Dead Rising Deluxe Remaster;49.99;Sep 18, 2024;['Windows'];1833;82;Muy Positivo;Action,Adventure
+Party Animals;9.99;Sep 20, 2023;['Windows'];39239;78;Muy Positivo;Action,Casual,Indie
+Street Fighter™ 6;59.99;Jun 1, 2023;['Windows'];29678;85;Muy Positivo;Action,Adventure
+Palworld;29.99;Jan 18, 2024;['Windows'];276703;93;Muy Positivo;Action,Adventure,Indie,RPG,Early Access
+Stellaris;39.99;May 9, 2016;['Windows', 'Mac', 'Linux'];119620;87;Muy Positivo;Simulation,Strategy
+Warhammer 40,000: Space Marine 2 - Season Pass;39.99;Sep 9, 2024;['Windows'];572;51;Mixto;Action,Adventure,RPG
+ARK: Survival Ascended;44.99;Oct 25, 2023;['Windows'];55217;58;Mixto;Action,Adventure,Indie,Massively Multiplayer,RPG,Early Access
+Dale & Dawson Stationery Supplies;7.99;Aug 30, 2024;['Windows'];3149;93;Muy Positivo;Casual,RPG,Strategy
+BeamNG.drive;24.99;May 29, 2015;['Windows'];251635;97;Absolutamente Positivo;Racing,Simulation,Early Access
+DARK SOULS™: REMASTERED;19.99;May 23, 2018;['Windows'];72111;91;Muy Positivo;Action
+Project Zomboid;19.99;Nov 8, 2013;['Windows', 'Mac', 'Linux'];244480;94;Muy Positivo;Indie,RPG,Simulation,Early Access
+Sea of Thieves: 2024 Edition;39.99;Jun 3, 2020;['Windows'];293672;89;Muy Positivo;Action,Adventure
+Total War: WARHAMMER III;59.99;Feb 16, 2022;['Windows', 'Mac', 'Linux'];75912;69;Muy Positivo;Action,Strategy
+The Elder Scrolls V: Skyrim Special Edition;39.99;Oct 27, 2016;['Windows'];168842;94;Absolutamente Positivo;RPG
+ELDEN RING Shadow of the Erdtree;39.99;Jun 20, 2024;['Windows'];78544;70;Mixto;Action,RPG
+Call of Duty®: Modern Warfare® III - BlackCell (Season 6);29.99;Sep 18, 2024;['Windows'];70;62;Mixto;Action
+Sons Of The Forest;29.99;Feb 22, 2024;['Windows'];183261;86;Muy Positivo;Action,Adventure,Indie,Simulation
+Ravenswatch;19.99;Sep 26, 2024;['Windows'];7937;79;Mayormente Positivo;Action,Adventure
+Zoochosis;22.49;Sep 30, 2024;['Windows'];599;44;Mixto;Simulation
+Cult of the Lamb;24.99;Aug 11, 2022;['Windows', 'Mac'];76204;95;Absolutamente Positivo;Action,Adventure,Indie,Strategy
+Overwatch® 2;0.0;Aug 10, 2023;['Windows'];301209;20;Mayormente Negativo;Action,Free To Play
+Crime Scene Cleaner;15.99;Aug 14, 2024;['Windows'];8228;97;Absolutamente Positivo;Action,Simulation
+Call of Duty®: Warzone™;0.0;Nov 16, 2022;['Windows'];37981;32;Mayormente Negativo;Action,Free To Play
+Hunt: Showdown 1896;29.99;Aug 27, 2019;['Windows'];179807;74;Mixto;Action
+MONSTER HUNTER RISE;9.99;Jan 12, 2022;['Windows'];65037;82;Muy Positivo;Action
+Core Keeper;19.99;Aug 27, 2024;['Windows', 'Linux'];30726;91;Muy Positivo;Adventure,Casual,Indie,RPG
+HITMAN World of Assassination;27.99;Jan 20, 2022;['Windows', 'Group_separator'];28099;86;Muy Positivo;Action,Adventure
+RimWorld;34.99;Oct 17, 2018;['Windows', 'Mac', 'Linux'];164203;97;Absolutamente Positivo;Indie,Simulation,Strategy
+Black Desert;9.99;May 24, 2017;['Windows'];56524;75;Mixto;Action,Adventure,Massively Multiplayer,RPG,Simulation,Strategy
+Forza Horizon 5;59.99;Nov 8, 2021;['Windows'];178577;88;Muy Positivo;Action,Adventure,Racing,Simulation,Sports
+Against the Storm;14.99;Dec 8, 2023;['Windows'];24198;95;Muy Positivo;Simulation,Strategy
+World of Warships;0.0;Nov 15, 2017;['Windows'];142927;77;Mayormente Positivo;Action,Massively Multiplayer,Simulation,Free To Play
+Hell Let Loose;35.99;Jul 27, 2021;['Windows'];82772;84;Muy Positivo;Action,Indie,Massively Multiplayer,Simulation,Strategy
+Nine Sols;29.99;May 28, 2024;['Windows', 'Mac'];11749;95;Muy Positivo;Action,Adventure,Indie
+Starfield - Shattered Space;29.99;Sep 30, 2024;['Windows'];857;42;Mixto;RPG
+Microsoft Flight Simulator 40th Anniversary Edition;59.99;Aug 17, 2020;['Windows', 'Group_separator'];58950;79;Mayormente Positivo;Simulation
+STAR WARS™: The Old Republic™;0.0;Jul 21, 2020;['Windows'];62980;89;Muy Positivo;Massively Multiplayer,RPG,Free To Play
+DayZ;49.99;Dec 13, 2018;['Windows'];333419;76;Muy Positivo;Action,Adventure,Massively Multiplayer
+Monster Hunter World: Iceborne;9.99;Jan 9, 2020;['Windows'];16808;57;Mixto;Action
+Guild Wars 2;0.0;Aug 23, 2022;['Windows'];18151;88;Muy Positivo;Adventure,Massively Multiplayer,RPG,Free To Play
+Fields of Mistria;13.99;Aug 5, 2024;['Windows'];8784;98;Absolutamente Positivo;Indie,RPG,Simulation,Early Access
+OCTOPATH TRAVELER II;35.99;Feb 24, 2023;['Windows'];9393;95;Muy Positivo;RPG
+Mortal Kombat 1;49.99;Sep 19, 2023;['Windows'];19584;70;Mixto;Action
+Sins of a Solar Empire II;49.99;Aug 15, 2024;['Windows'];4039;86;Muy Positivo;Simulation,Strategy
+iRacing;9.99;Jan 12, 2015;['Windows'];2733;83;Muy Positivo;Massively Multiplayer,Racing,Simulation,Sports
+Persona 3 Reload;69.99;Feb 1, 2024;['Windows'];19593;94;Muy Positivo;Adventure,RPG,Strategy
+Backrooms: Escape Together;7.99;Oct 18, 2022;['Windows'];3597;83;Muy Positivo;Action,Adventure,Casual,Indie,Early Access
+Hogwarts Legacy;59.99;Feb 10, 2023;['Windows'];203879;90;Muy Positivo;Action,Adventure,RPG
+Summoners War;0.0;Jan 7, 2024;['Windows'];6413;71;Mixto;RPG,Strategy,Free To Play
+MARVEL vs. CAPCOM Fighting Collection: Arcade Classics;49.99;Sep 11, 2024;['Windows'];1124;92;Muy Positivo;Action
+Assetto Corsa;4.99;Dec 19, 2014;['Windows', 'Group_separator'];104457;92;Muy Positivo;Indie,Racing,Simulation,Sports
+The Lord of the Rings: Return to Moria™;24.99;Aug 27, 2024;['Windows'];2023;80;Muy Positivo;Adventure
+Dark and Darker;0.0;Jun 7, 2024;['Windows'];48928;73;Mayormente Positivo;Action,RPG,Free To Play,Early Access
+Bloons TD 6;13.99;Dec 17, 2018;['Windows', 'Mac'];290037;97;Absolutamente Positivo;Strategy
+Path of Exile;0.0;Oct 23, 2013;['Windows', 'Mac'];226491;89;Muy Positivo;Action,Adventure,Indie,Massively Multiplayer,RPG,Free To Play
+Chained Together;4.99;Jun 19, 2024;['Windows'];27822;89;Muy Positivo;Adventure,Casual,Indie,Simulation
+Hearts of Iron IV;49.99;Apr 9, 2024;['Windows', 'Mac', 'Linux'];219128;91;Muy Positivo;Simulation,Strategy
+Snowbreak: Containment Zone;0.0;Dec 24, 2023;['Windows'];5650;79;Mayormente Positivo;Action,Adventure,RPG
+Spectre Divide;0.0;Sep 3, 2024;['Windows'];14715;61;Mixto;Action,Free To Play
+theHunter: Call of the Wild™;19.99;Feb 16, 2017;['Windows'];136415;88;Muy Positivo;Adventure,Simulation,Sports
+Bodycam;33.32;Jun 7, 2024;['Windows'];22051;73;Mayormente Positivo;Action,Indie,Massively Multiplayer,Simulation,Strategy,Early Access
+New World;29.99;Sep 28, 2021;['Windows'];240108;68;Mixto;Action,Adventure,Massively Multiplayer,RPG
+NARAKA: BLADEPOINT;0.0;Aug 11, 2021;['Windows'];255075;75;Mayormente Positivo;Action,Adventure,Massively Multiplayer
+DUCKSIDE;9.74;Sep 25, 2024;['Windows'];629;78;Mayormente Positivo;Action,Indie,Massively Multiplayer,Simulation,Early Access
+7 Days to Die;44.99;Jul 25, 2024;['Windows', 'Mac', 'Linux'];232441;88;Muy Positivo;Action,Adventure,Indie,RPG,Simulation,Strategy
+Balatro;14.99;Feb 20, 2024;['Windows', 'Mac'];43408;97;Absolutamente Positivo;Casual,Indie,Strategy
+METAL GEAR & METAL GEAR 2: Solid Snake;15.99;Oct 24, 2023;['Windows'];308;84;Muy Positivo;Action
+Raft;19.99;Jun 20, 2022;['Windows'];276334;93;Muy Positivo;Adventure,Indie,Simulation
+Pathfinder: Wrath of the Righteous - Enhanced Edition;11.99;Sep 2, 2021;['Windows', 'Mac'];26633;83;Muy Positivo;Adventure,Indie,RPG,Strategy
+shapez 2;24.99;Aug 15, 2024;['Windows', 'Mac', 'Linux'];6721;98;Absolutamente Positivo;Casual,Indie,Simulation,Strategy,Early Access
+Terraria;9.99;May 16, 2011;['Windows', 'Mac', 'Linux'];1062970;97;Absolutamente Positivo;Action,Adventure,Indie,RPG
+Gunfire Reborn;19.99;Nov 17, 2021;['Windows'];82592;93;Muy Positivo;Action,Adventure,Indie,RPG
+CarX Street;19.99;Aug 29, 2024;['Windows'];5830;69;Mayormente Positivo;Massively Multiplayer,Racing,Simulation,Sports
+Ale & Tale Tavern;14.99;Sep 5, 2024;['Windows'];1671;84;Muy Positivo;Action,Adventure,Casual,Indie,Simulation
+Supermarket Simulator;12.99;Feb 20, 2024;['Windows'];48652;93;Muy Positivo;Casual,Indie,Simulation,Early Access
+Enshrouded;29.99;Jan 24, 2024;['Windows'];50182;85;Muy Positivo;Action,Adventure,RPG,Early Access
+Disney Dreamlight Valley;39.99;Dec 5, 2023;['Windows'];15685;91;Muy Positivo;Action,Adventure,Casual,RPG,Simulation
+Echo Point Nova;22.49;Sep 24, 2024;['Windows'];1068;99;Absolutamente Positivo;Action,Adventure,Indie
+Palia;0.0;Mar 25, 2024;['Windows'];15921;81;Muy Positivo;Adventure,Casual,Indie,RPG,Simulation,Free To Play
+Factorio;35.0;Aug 14, 2020;['Windows', 'Mac', 'Linux'];150507;97;Absolutamente Positivo;Casual,Indie,Simulation,Strategy
+Content Warning;7.99;Apr 1, 2024;['Windows'];35637;93;Muy Positivo;Action,Adventure,Indie
+Abiotic Factor;24.99;May 2, 2024;['Windows'];13327;96;Absolutamente Positivo;Action,Adventure,RPG,Simulation,Early Access
+Fallout 4;19.99;Nov 9, 2015;['Windows'];250355;83;Muy Positivo;RPG
+Wizard101;0.0;Sep 6, 2018;['Windows'];7401;81;Mayormente Positivo;Adventure,Casual,Massively Multiplayer,RPG,Strategy,Free To Play
+METAL GEAR SOLID V: THE PHANTOM PAIN;11.99;Sep 1, 2015;['Windows'];62835;91;Muy Positivo;Action,Adventure
+Limbus Company;0.0;Feb 26, 2023;['Windows'];38009;84;Muy Positivo;Action,RPG,Strategy
+Mechabellum;10.49;Sep 26, 2024;['Windows'];8635;84;Muy Positivo;Action,Indie,Massively Multiplayer,Simulation,Strategy
+No Man's Sky;59.99;Aug 12, 2016;['Windows', 'Mac', 'Group_separator'];242351;79;Muy Positivo;Action,Adventure
+V Rising;34.99;May 8, 2024;['Windows'];86335;88;Muy Positivo;Action,Adventure,Massively Multiplayer
+Call of Duty®: Modern Warfare® III;69.99;Nov 10, 2023;['Windows'];11042;31;Mayormente Negativo;Action
+Sid Meier’s Civilization® VI;59.99;Oct 20, 2016;['Windows', 'Mac', 'Linux'];238793;86;Muy Positivo;Strategy
+Sekiro™: Shadows Die Twice - GOTY Edition;59.99;Mar 21, 2019;['Windows'];218155;95;Muy Positivo;Action,Adventure
+Deep Rock Galactic;29.99;May 13, 2020;['Windows'];248408;97;Absolutamente Positivo;Action
+Brawlhalla;0.0;Oct 17, 2017;['Windows', 'Mac'];372896;82;Mayormente Positivo;Action,Indie,Free To Play
+GUNDAM BREAKER 4;59.99;Aug 28, 2024;['Windows'];2351;78;Mayormente Positivo;Action,RPG
+Ara: History Untold;59.99;Sep 24, 2024;['Windows'];945;68;Mixto;Strategy
+Cities: Skylines II;49.99;Oct 24, 2023;['Windows'];43097;53;Mixto;Simulation
+SMITE 2;29.99;Aug 27, 2024;['Windows'];2105;55;Mixto;Action,Adventure,Casual,Massively Multiplayer,RPG,Strategy,Early Access
+The Outlast Trials;39.99;Mar 5, 2024;['Windows'];44903;93;Muy Positivo;Action,Adventure,Indie
+The Last of Us™ Part I;59.99;Mar 28, 2023;['Windows'];33442;73;Muy Positivo;Action,Adventure
+DARK SOULS™ II: Scholar of the First Sin;19.99;Apr 1, 2015;['Windows'];68319;85;Mayormente Positivo;Action,RPG
+Farming Simulator 22;29.99;Nov 21, 2021;['Windows', 'Mac'];57457;92;Muy Positivo;Simulation
+FOR HONOR™;29.99;Mar 14, 2024;['Windows'];91404;69;Mixto;Action
+Borderlands 2;19.99;Sep 17, 2012;['Windows', 'Mac', 'Linux'];191706;95;Muy Positivo;Action,RPG
+GUILTY GEAR -STRIVE-;39.99;Jun 11, 2021;['Windows'];37799;91;Muy Positivo;Action
+XCOM® 2;2.99;Feb 4, 2016;['Windows', 'Mac', 'Linux'];69974;84;Muy Positivo;Strategy
+PICO PARK 2;8.99;Sep 12, 2024;['Windows', 'Mac'];680;85;Muy Positivo;Action,Casual
+VRChat;0.0;Feb 1, 2017;['Windows', 'Group_separator'];225689;75;Mayormente Positivo;Adventure,Casual,Massively Multiplayer,Simulation,Sports,Free To Play,Early Access
+Disco Elysium - The Final Cut;9.99;Oct 15, 2019;['Windows', 'Mac'];91875;93;Muy Positivo;RPG
+God of War;49.99;Jan 14, 2022;['Windows'];100136;96;Muy Positivo;Action,Adventure,RPG
+DREDGE;24.99;Mar 30, 2023;['Windows'];29708;95;Muy Positivo;Adventure,RPG
+Rogue Waters;23.99;Sep 30, 2024;['Windows'];86;87;Muy Positivo;Action,Adventure,RPG,Strategy
+Arma Reforger;29.99;Nov 16, 2023;['Windows'];14112;70;Mayormente Positivo;Action,Simulation,Strategy
+Yu-Gi-Oh! Duel Links;0.0;Nov 16, 2017;['Windows'];42669;83;Muy Positivo;Strategy,Free To Play
+Resident Evil 4;39.99;Mar 23, 2023;['Windows'];93874;97;Absolutamente Positivo;Action,Adventure
+Disney Epic Mickey: Rebrushed;59.99;Sep 24, 2024;['Windows'];303;95;Muy Positivo;Action,Adventure
+DEATH STRANDING DIRECTOR'S CUT;19.99;Mar 30, 2022;['Windows'];22083;92;Muy Positivo;Action,Adventure
+ANIMAL WELL;19.99;May 9, 2024;['Windows'];12820;95;Absolutamente Positivo;Action,Adventure,Indie
+KINGDOM HEARTS -HD 1.5+2.5 ReMIX-;49.99;Jun 13, 2024;['Windows'];4433;77;Muy Positivo;Action,Adventure,RPG
+Marvel’s Spider-Man Remastered;59.99;Aug 12, 2022;['Windows'];70988;96;Absolutamente Positivo;Action,Adventure,Casual
+Hades II;29.99;May 6, 2024;['Windows'];44386;94;Muy Positivo;Action,Indie,RPG,Early Access
+Monster Hunter Stories;24.89;Jun 13, 2024;['Windows'];355;87;Muy Positivo;RPG
+Escape the Backrooms;9.99;Aug 11, 2022;['Windows'];70134;91;Muy Positivo;Indie,Early Access
+Tabletop Simulator;19.99;Jun 5, 2015;['Windows', 'Mac', 'Linux', 'Group_separator'];40116;96;Muy Positivo;Casual,Indie,RPG,Simulation,Strategy
+SnowRunner;29.99;May 17, 2021;['Windows', 'Mac'];29604;89;Muy Positivo;Adventure,Simulation
+Squirrel with a Gun;19.99;Aug 29, 2024;['Windows'];1432;85;Muy Positivo;Action,Adventure,Indie,Simulation
+Thank Goodness You're Here!;19.99;Aug 1, 2024;['Windows', 'Mac'];2858;96;Absolutamente Positivo;Adventure,Casual,Indie
+Halo: The Master Chief Collection;39.99;Dec 3, 2019;['Windows'];211134;92;Muy Positivo;Action
+The Binding of Isaac: Rebirth;14.99;Nov 4, 2014;['Windows', 'Mac', 'Linux'];271589;97;Absolutamente Positivo;Action
+War Robots;0.0;Apr 4, 2018;['Windows'];23772;61;Mixto;Action,Free To Play
+Call of Duty®: Black Ops II;59.99;Nov 12, 2012;['Windows'];19980;86;Muy Positivo;Action
+World of Tanks Blitz;0.0;Nov 9, 2016;['Windows', 'Mac'];142802;79;Mayormente Positivo;Action,Massively Multiplayer,Simulation,Strategy,Free To Play
+PowerWash Simulator;24.99;Jul 14, 2022;['Windows'];41278;97;Absolutamente Positivo;Casual,Indie,Simulation
+Grounded;39.99;Sep 27, 2022;['Windows'];59291;90;Muy Positivo;Action,Adventure
+Sea of Stars;24.49;Aug 28, 2023;['Windows'];8414;88;Muy Positivo;Adventure,Indie,RPG
+Subnautica;29.99;Jan 23, 2018;['Windows', 'Mac', 'Group_separator'];256445;96;Absolutamente Positivo;Adventure,Indie
+RuneScape ®;0.0;Oct 14, 2020;['Windows', 'Mac'];24037;83;Mayormente Positivo;Massively Multiplayer,RPG,Free To Play
+Slackers - Carts of Glory;9.74;Sep 18, 2024;['Windows'];535;91;Muy Positivo;Action,Casual,Indie,Racing,Simulation
+Against the Storm - Keepers of the Stone;13.49;Sep 26, 2024;['Windows'];154;81;Muy Positivo;Simulation,Strategy
+Norland;19.49;Jul 18, 2024;['Windows'];4235;78;Muy Positivo;Simulation,Strategy,Early Access
+ULTRAKILL;24.99;Sep 3, 2020;['Windows'];113880;97;Absolutamente Positivo;Action,Indie,Early Access
+Shadows of Doubt;19.99;Sep 26, 2024;['Windows'];10412;86;Mixto;Action,Adventure,Indie,RPG
+ARK: Survival Evolved;14.99;Aug 27, 2017;['Windows', 'Mac'];528598;83;Muy Positivo;Action,Adventure,Indie,Massively Multiplayer,RPG
+Among Us;4.99;Nov 16, 2018;['Windows'];607015;92;Muy Positivo;Casual
+Risk of Rain 2: Seekers of the Storm;14.99;Aug 27, 2024;['Windows'];8721;27;Mayormente Negativo;Action,Indie
+Planet Zoo;44.99;Nov 5, 2019;['Windows'];68374;90;Muy Positivo;Casual,Simulation,Strategy
+Call of Duty®: Black Ops Cold War;59.99;Mar 8, 2023;['Windows'];16334;80;Mayormente Positivo;Action
+LOLLIPOP CHAINSAW RePOP;44.99;Sep 11, 2024;['Windows'];1063;84;Muy Positivo;Action
+Persona 5 Royal;59.99;Oct 20, 2022;['Windows'];55394;96;Absolutamente Positivo;RPG
+STALCRAFT: X;0.0;Dec 9, 2022;['Windows'];57848;76;Mayormente Positivo;Action,Adventure,Massively Multiplayer,RPG
+Lightyear Frontier;17.49;Mar 19, 2024;['Windows'];1458;86;Mayormente Positivo;Adventure,Casual,Indie,Simulation,Early Access
+For The King II;14.99;Nov 2, 2023;['Windows'];9414;70;Mayormente Positivo;Adventure,Indie,RPG,Strategy
+ARK: Bob's Tall Tales;29.99;Apr 1, 2024;['Windows'];725;54;Mixto;Action,Adventure,Indie,Massively Multiplayer,RPG
+DRAGON QUEST® XI S: Echoes of an Elusive Age™ - Definitive Edition;19.99;Dec 4, 2020;['Windows'];7613;93;Muy Positivo;Adventure,RPG
+Darkest Dungeon®;3.74;Jan 19, 2016;['Windows', 'Mac', 'Linux'];121630;91;Muy Positivo;Indie,RPG,Strategy
+American Truck Simulator - Arkansas;11.99;Sep 16, 2024;['Windows', 'Mac', 'Linux'];170;84;Muy Positivo;Indie,Simulation
+Garry's Mod;9.99;Nov 29, 2006;['Windows', 'Mac', 'Linux'];946769;96;Absolutamente Positivo;Casual,Indie,Simulation
+Europa Universalis IV;39.99;Aug 13, 2013;['Windows', 'Mac', 'Linux'];86821;87;Muy Positivo;Simulation,Strategy
+Arma 3;29.99;Sep 12, 2013;['Windows', 'Mac'];206414;90;Muy Positivo;Action,Simulation,Strategy
+Valheim;19.99;Feb 2, 2021;['Windows', 'Mac', 'Linux'];398368;94;Muy Positivo;Action,Adventure,Indie,RPG,Early Access
+Total War: WARHAMMER II;59.99;Sep 28, 2017;['Windows', 'Mac', 'Linux'];83421;93;Muy Positivo;Action,Strategy
+Until Then;13.99;Jun 25, 2024;['Windows', 'Linux'];2871;98;Absolutamente Positivo;Adventure,Casual,Indie
+Rain World;9.24;Mar 28, 2017;['Windows'];27523;94;Muy Positivo;Action,Adventure,Indie
+Songs of Conquest;17.49;May 20, 2024;['Windows', 'Mac'];8121;86;Muy Positivo;Adventure,RPG,Strategy
+Far Cry® 6;14.99;May 11, 2023;['Windows'];20838;71;Mixto;Action,Adventure
+World of Tanks;0.0;Apr 28, 2021;['Windows'];79261;84;Mayormente Positivo;Action,Massively Multiplayer,Simulation,Free To Play
+ICARUS;34.99;Dec 3, 2021;['Windows'];32604;71;Muy Positivo;Action,Adventure,Simulation
+Conan Exiles;39.99;May 8, 2018;['Windows'];68694;78;Muy Positivo;Action,Adventure,Massively Multiplayer,RPG,Simulation,Strategy
+SKALD: Against the Black Priory;11.24;May 30, 2024;['Windows', 'Mac'];1769;95;Muy Positivo;Indie,RPG
+MultiVersus;0.0;Jul 19, 2022;['Windows'];116644;77;Mixto;Action,Free To Play
+Action Taimanin;0.0;Oct 5, 2020;['Windows'];17963;83;Mayormente Positivo;Action,Adventure,RPG,Free To Play
+Star Trucker;24.99;Sep 3, 2024;['Windows'];2466;75;Mayormente Positivo;Simulation
+ACE COMBAT™ 7: SKIES UNKNOWN;14.99;Jan 31, 2019;['Windows'];34175;87;Muy Positivo;Action,Simulation
+Destiny 2: The Final Shape;49.99;Jun 4, 2024;['Windows'];5153;80;Mixto;Action,Adventure,Free To Play
+It Takes Two Friend's Pass;0.0;May 29, 2024;['Windows'];151550;94;Absolutamente Positivo;Action,Adventure,Indie
+It Takes Two;39.99;Mar 25, 2021;['Windows'];151551;94;Absolutamente Positivo;Action,Adventure
+Visions of Mana;59.99;Aug 29, 2024;['Windows'];1278;80;Mayormente Positivo;Action,RPG
+Warhammer 40,000: Rogue Trader - Void Shadows;17.99;Sep 24, 2024;['Windows', 'Mac'];197;95;Muy Positivo;Adventure,Indie,RPG,Strategy
+Five Nights at Freddy's: Into the Pit;19.99;Aug 7, 2024;['Windows'];7163;95;Muy Positivo;Action,Adventure,Indie
+Assetto Corsa Competizione;11.99;May 29, 2019;['Windows', 'Group_separator'];23666;92;Muy Positivo;Racing,Simulation,Sports
+Marvel's Midnight Suns;14.99;Dec 1, 2022;['Windows'];13456;82;Muy Positivo;RPG,Strategy
+Half-Life: Alyx;59.99;Mar 23, 2020;['Windows', 'Group_separator'];80037;98;Absolutamente Positivo;Action,Adventure
+Necesse;9.74;Dec 12, 2019;['Windows', 'Mac', 'Linux'];11799;94;Muy Positivo;Action,Adventure,Indie,RPG,Early Access
+Horizon Forbidden West™ Complete Edition;59.99;Mar 21, 2024;['Windows'];11146;89;Muy Positivo;Action,RPG
+Bloomtown: A Different Story;22.49;Sep 24, 2024;['Windows'];287;86;Muy Positivo;Adventure,Indie,RPG
+New World: Rise of the Angry Earth;29.99;Oct 3, 2023;['Windows'];1476;53;Mixto;Action,Adventure,Massively Multiplayer,RPG
+Dragon's Dogma 2;69.99;Mar 21, 2024;['Windows'];64611;60;Mixto;Action,RPG
+Left 4 Dead 2;9.99;Nov 16, 2009;['Windows', 'Linux'];671334;97;Absolutamente Positivo;Action
+Persona 4 Golden;11.99;Jun 13, 2020;['Windows'];61829;97;Absolutamente Positivo;RPG
+DRAGON BALL XENOVERSE 2;19.99;Oct 27, 2016;['Windows'];38022;90;Muy Positivo;Action,Adventure,Casual,Massively Multiplayer
+PlateUp!;6.79;Aug 4, 2022;['Windows'];13940;95;Muy Positivo;Action,Casual,Indie,Strategy
+Gray Zone Warfare;34.99;Apr 30, 2024;['Windows'];46375;66;Mixto;Action,Adventure,Massively Multiplayer,Early Access
+Warhammer: Vermintide 2;5.99;Mar 8, 2018;['Windows'];79131;84;Muy Positivo;Action,Indie,RPG
+REKA;19.99;Sep 12, 2024;['Windows'];918;87;Muy Positivo;Adventure,Casual,Indie,RPG,Early Access
+Cities: Skylines;29.99;Mar 10, 2015;['Windows', 'Mac', 'Linux'];194112;93;Muy Positivo;Simulation,Strategy
+Battlefield™ 2042;59.99;Nov 19, 2021;['Windows'];214175;47;Mixto;Action,Adventure,Casual
+DCS World Steam Edition;0.0;Aug 2, 2013;['Windows', 'Group_separator'];34430;85;Muy Positivo;Simulation,Free To Play
+Sword of Convallaria;0.0;Jul 31, 2024;['Windows'];2702;73;Mayormente Positivo;RPG,Strategy,Free To Play
+Dungeons & Degenerate Gamblers;11.99;Aug 8, 2024;['Windows', 'Mac', 'Linux'];1398;76;Muy Positivo;Casual,Indie,RPG,Strategy
+Harry Potter: Quidditch Champions;29.99;Sep 3, 2024;['Windows'];1688;77;Mayormente Positivo;Action,Sports
+Realm of the Mad God Exalt;0.0;Feb 20, 2012;['Windows', 'Mac'];45801;83;Mayormente Positivo;Action,Adventure,Indie,Massively Multiplayer,RPG,Free To Play
+The Casting of Frank Stone™;39.99;Sep 3, 2024;['Windows'];2968;62;Mixto;Adventure
+Castlevania Dominus Collection;24.99;Aug 27, 2024;['Windows'];923;95;Absolutamente Positivo;Action,RPG
+SMITE®;0.0;Sep 8, 2015;['Windows'];118752;78;Mixto;Action,Adventure,Casual,Massively Multiplayer,RPG,Strategy,Free To Play
+Halo Infinite;0.0;Dec 8, 2021;['Windows'];173252;70;Mixto;Action,Free To Play
+Mount & Blade II: Bannerlord;49.99;Oct 25, 2022;['Windows'];195263;87;Muy Positivo;Action,Indie,RPG,Simulation,Strategy
+MX Bikes;34.99;Oct 7, 2019;['Windows'];21073;94;Muy Positivo;Racing,Simulation,Sports,Early Access
+Ready or Not: Home Invasion;9.99;Jul 23, 2024;['Windows'];1734;56;Mixto;Action,Adventure,Indie
+Warhammer 40,000: Space Marine - Anniversary Edition;39.99;Sep 5, 2011;['Windows'];14251;92;Muy Positivo;Action
+Enlisted;0.0;Jul 16, 2024;['Windows', 'Linux'];10001;77;Mayormente Positivo;Action,Massively Multiplayer,Free To Play
+Phantasy Star Online 2 New Genesis;0.0;Aug 5, 2020;['Windows'];23431;70;Mixto;Action,Massively Multiplayer,RPG,Free To Play
+Gunfire Reborn - Realm of Frost and Inkwash;6.99;Sep 11, 2024;['Windows'];333;91;Muy Positivo;Action,Adventure,Indie,RPG
+The Witcher 3: Wild Hunt;39.99;May 18, 2015;['Windows'];727847;96;Muy Positivo;RPG
+Car Mechanic Simulator 2021;24.99;Aug 11, 2021;['Windows'];25036;95;Muy Positivo;Racing,Simulation
+Mouthwashing;11.69;Sep 26, 2024;['Windows'];1010;97;Absolutamente Positivo;Adventure,Indie
+Fishing Planet;0.0;Aug 28, 2017;['Windows', 'Mac', 'Linux'];59570;86;Muy Positivo;Massively Multiplayer,Simulation,Sports,Free To Play
+Don't Starve Together;14.99;Apr 21, 2016;['Windows', 'Mac', 'Linux'];318419;95;Muy Positivo;Action,Adventure,Indie,RPG,Simulation,Strategy
+OCTOPATH TRAVELER™;29.99;Jun 7, 2019;['Windows'];11513;86;Mayormente Positivo;RPG
+Blade and Sorcery;29.99;Jun 17, 2024;['Windows', 'Group_separator'];50489;96;Muy Positivo;Action,Adventure,Indie,RPG,Simulation
+Cataclismo;19.49;Jul 22, 2024;['Windows'];2115;93;Muy Positivo;Simulation,Strategy,Early Access
+Euro Truck Simulator 2;19.99;Oct 12, 2012;['Windows', 'Mac', 'Linux'];599858;97;Absolutamente Positivo;Indie,Simulation
+Terminus: Zombie Survivors;14.99;Aug 19, 2024;['Windows', 'Mac'];2838;95;Muy Positivo;Adventure,Indie,RPG,Simulation,Strategy
+The Planet Crafter;23.99;Apr 10, 2024;['Windows'];39174;96;Absolutamente Positivo;Adventure
+Divinity: Original Sin 2 - Definitive Edition;44.99;Sep 14, 2017;['Windows', 'Mac'];159722;95;Muy Positivo;Adventure,RPG,Strategy
+PANICORE;4.99;May 31, 2024;['Windows'];4452;78;Mayormente Positivo;Action,Adventure,Indie
+Dwarven Realms;9.99;Sep 27, 2024;['Windows'];1440;87;Mayormente Positivo;Action,Adventure,Indie,RPG
+Little Kitty, Big City;18.74;May 9, 2024;['Windows'];5488;95;Absolutamente Positivo;Adventure,Casual,Indie,Simulation
+Conqueror's Blade;0.0;Apr 5, 2020;['Windows'];31250;68;Mixto;Action,Massively Multiplayer,RPG,Strategy,Free To Play
+Sky: Children of the Light;0.0;Apr 10, 2024;['Windows'];8074;83;Muy Positivo;Adventure,Casual,Indie,Massively Multiplayer,RPG,Free To Play,Early Access
+Golf With Your Friends;8.39;May 19, 2020;['Windows', 'Mac', 'Linux'];42753;89;Muy Positivo;Casual,Indie,Sports
+Total War: THREE KINGDOMS;20.39;May 23, 2019;['Windows', 'Mac', 'Linux'];57814;82;Muy Positivo;Action,Strategy
+Teardown;29.99;Apr 21, 2022;['Windows'];90172;95;Absolutamente Positivo;Action,Indie,Simulation,Strategy
+Ranch Simulator: Build, Hunt, Farm;7.49;Nov 3, 2023;['Windows'];22967;82;Muy Positivo;Simulation
+Dying Light 2 Stay Human: Reloaded Edition;59.99;Feb 3, 2022;['Windows'];132027;79;Mayormente Positivo;Action,Adventure,RPG
+A Little to the Left;14.99;Nov 8, 2022;['Windows', 'Mac'];9769;92;Absolutamente Positivo;Casual,Indie
+Outer Wilds;24.99;Jun 18, 2020;['Windows'];60858;95;Absolutamente Positivo;Action,Adventure
+Nightingale;29.99;Feb 20, 2024;['Windows'];12470;65;Mayormente Positivo;Action,Adventure,RPG,Early Access
+Age of Empires II: Definitive Edition;19.99;Nov 14, 2019;['Windows'];131523;94;Absolutamente Positivo;Strategy
+FINAL FANTASY X/X-2 HD Remaster;11.99;May 12, 2016;['Windows'];15433;89;Muy Positivo;RPG
+Call of Duty®: Modern Warfare® Remastered (2017);39.99;Jul 27, 2017;['Windows'];11161;51;Mixto;Action
+House Flipper 2;39.99;Dec 14, 2023;['Windows'];7384;80;Muy Positivo;Casual,Indie,Simulation
+The Forest;19.99;Apr 30, 2018;['Windows', 'Group_separator'];473328;95;Absolutamente Positivo;Action,Adventure,Indie,Simulation
+SteamWorld Heist II;19.79;Aug 8, 2024;['Windows'];803;96;Absolutamente Positivo;Action,Adventure,Indie,RPG,Strategy
+Call of Duty®: Black Ops;39.99;Nov 9, 2010;['Windows'];18883;91;Muy Positivo;Action
+Total War: WARHAMMER;59.99;May 24, 2016;['Windows', 'Mac', 'Linux'];31182;78;Muy Positivo;Action,Strategy
+DEVOUR;9.99;Jan 28, 2021;['Windows', 'Mac', 'Group_separator'];60535;91;Muy Positivo;Indie
+Dokapon Kingdom: Connect;19.99;Sep 7, 2023;['Windows'];319;89;Muy Positivo;Action,Casual,RPG,Strategy
+Star Trek Online;0.0;Jan 31, 2012;['Windows'];19487;78;Mayormente Positivo;Massively Multiplayer,RPG,Free To Play
+Age of Empires IV: Anniversary Edition;39.99;Oct 28, 2021;['Windows'];53580;87;Muy Positivo;Strategy
+Home Safety Hotline;10.04;Jan 16, 2024;['Windows'];1436;92;Muy Positivo;Casual,Indie,Simulation
+METAL GEAR RISING: REVENGEANCE;17.99;Jan 9, 2014;['Windows', 'Mac'];60889;96;Absolutamente Positivo;Action
+The Plucky Squire;29.99;Sep 17, 2024;['Windows'];997;83;Muy Positivo;Adventure
+Shin Megami Tensei V: Vengeance;59.99;Jun 13, 2024;['Windows'];3982;92;Mayormente Positivo;Adventure,RPG
+Project Castaway;19.99;Sep 23, 2024;['Windows', 'Linux'];335;71;Mayormente Positivo;Action,Adventure,Casual,Early Access
+Stormworks: Build and Rescue;24.99;Sep 17, 2020;['Windows', 'Mac'];44309;90;Muy Positivo;Simulation
+Crusader Kings III: Tours & Tournaments;29.99;May 11, 2023;['Windows', 'Mac', 'Linux'];1334;76;Mixto;RPG,Simulation,Strategy
+SCUM;19.99;Aug 29, 2018;['Windows'];84543;74;Mayormente Positivo;Action,Adventure,Indie,Massively Multiplayer,Early Access
+Eternal Return;0.0;Jul 19, 2023;['Windows'];59644;79;Mayormente Positivo;Indie,Strategy,Free To Play
+The Lord of the Rings Online™;0.0;Jun 6, 2012;['Windows'];19586;81;Muy Positivo;Action,Adventure,Massively Multiplayer,RPG,Free To Play
+Gas Station Simulator;19.99;Sep 15, 2021;['Windows', 'Mac'];20173;88;Muy Positivo;Indie,Simulation
+MEMORIAPOLIS;24.99;Aug 29, 2024;['Windows'];877;82;Muy Positivo;Indie,Simulation,Strategy,Early Access
+WWE 2K24;59.99;Mar 7, 2024;['Windows'];3593;72;Muy Positivo;Simulation,Sports
+Space Engineers;19.99;Feb 28, 2019;['Windows'];93642;89;Muy Positivo;Action,Indie,Simulation,Strategy
+Hollow Knight;14.99;Feb 24, 2017;['Windows', 'Mac', 'Linux'];330217;97;Absolutamente Positivo;Action,Adventure,Indie
+Still Wakes the Deep;32.78;Jun 18, 2024;['Windows'];3600;88;Muy Positivo;Action
+Frostpunk;29.99;Apr 24, 2018;['Windows', 'Mac'];93976;92;Muy Positivo;Simulation,Strategy
+DAVE THE DIVER;19.99;Jun 28, 2023;['Windows', 'Mac'];102901;97;Muy Positivo;Adventure,Casual,RPG,Simulation
+Gloomhaven;13.99;Oct 20, 2021;['Windows', 'Mac'];12220;84;Mayormente Positivo;Adventure,RPG,Strategy
+PILGRIM;7.99;May 31, 2024;['Windows'];1419;84;Muy Positivo;Action,Adventure,Indie,Early Access
+Kingdom Come: Deliverance;29.99;Feb 13, 2018;['Windows'];103486;82;Mayormente Positivo;Action,Adventure,RPG
+Marvel’s Spider-Man: Miles Morales;49.99;Nov 18, 2022;['Windows'];25901;93;Muy Positivo;Action,Adventure
+Like a Dragon: Infinite Wealth;69.99;Jan 25, 2024;['Windows'];9107;90;Muy Positivo;Action,Adventure,RPG
+Sun Haven;24.99;Mar 10, 2023;['Windows', 'Mac'];16962;85;Mayormente Positivo;Adventure,Casual,Indie,RPG,Simulation
+Atelier Ryza: Ever Darkness & the Secret Hideout;19.79;Oct 28, 2019;['Windows'];6737;86;Mixto;RPG
+Firestone: Online Idle RPG;0.0;Apr 1, 2024;['Windows', 'Mac', 'Linux'];5889;78;Mixto;Action,Adventure,Casual,Indie,Massively Multiplayer,RPG,Simulation,Strategy,Free To Play
+Grocery Store Simulator;7.99;Jun 10, 2024;['Windows'];2781;94;Muy Positivo;Casual,Indie,Simulation,Early Access
+Peglin;19.99;Aug 27, 2024;['Windows', 'Mac'];11478;80;Mayormente Positivo;Casual,Indie,RPG,Strategy
+Jurassic World Evolution 2;59.99;Nov 9, 2021;['Windows'];25739;89;Muy Positivo;Simulation,Strategy
+Crusader Kings III: Legends of the Dead;19.99;Mar 4, 2024;['Windows', 'Mac', 'Linux'];1469;32;Mayormente Negativo;RPG,Simulation,Strategy
+Cuphead;19.99;Sep 29, 2017;['Windows', 'Mac'];151558;96;Muy Positivo;Action,Indie
+Police Simulator: Patrol Officers;29.99;Nov 10, 2022;['Windows'];14363;80;Mayormente Positivo;Simulation
+Wildermyth;17.49;Jun 15, 2021;['Windows', 'Mac', 'Linux'];15199;95;Muy Positivo;Indie,RPG,Strategy
+The Spell Brigade;9.99;Sep 16, 2024;['Windows', 'Linux'];701;86;Muy Positivo;Action,Casual,Indie,Free To Play,Early Access
+Gorilla Tag;19.99;Jan 1, 2023;['Windows', 'Group_separator'];25349;93;Muy Positivo;Action,Casual
+Wolfenstein II: The New Colossus;5.99;Oct 26, 2017;['Windows'];28837;80;Muy Positivo;Action
+Foxhole;29.99;Sep 28, 2022;['Windows'];33758;82;Muy Positivo;Action,Indie,Massively Multiplayer,RPG,Strategy
+Total War: PHARAOH;39.99;Oct 11, 2023;['Windows', 'Mac'];3196;64;Mayormente Positivo;Action,Strategy
+FINAL FANTASY XIV: Dawntrail;39.99;Jul 2, 2024;['Windows'];4051;56;Mayormente Negativo;Massively Multiplayer,RPG
+Chef RPG;19.99;Sep 12, 2024;['Windows', 'Mac'];807;86;Muy Positivo;Adventure,RPG,Simulation,Early Access
+Train Sim World® 5;49.99;Sep 17, 2024;['Windows'];402;76;Mayormente Positivo;Simulation
+Beat Saber;29.99;May 21, 2019;['Windows', 'Group_separator'];66891;95;Muy Positivo;Indie
+ARMORED CORE™ VI FIRES OF RUBICON™;59.99;Aug 24, 2023;['Windows'];55454;91;Muy Positivo;Action
+Risk of Rain 2: Survivors of the Void;14.99;Mar 1, 2022;['Windows'];4923;87;Muy Positivo;Action,Indie
+Dying Light;19.99;Apr 21, 2016;['Windows', 'Mac', 'Linux'];315502;95;Absolutamente Positivo;Action,RPG
+Six Days in Fallujah;39.99;Jun 22, 2023;['Windows'];9352;84;Muy Positivo;Action,Early Access
+Dead by Daylight - Castlevania Chapter;7.99;Aug 27, 2024;['Windows'];366;84;Mayormente Positivo;Action
+Demonologist;14.99;Sep 25, 2023;['Windows'];15051;86;Muy Positivo;Action,Adventure,Indie
+Anno 1800;59.99;Apr 2019;['Windows'];17122;82;Mayormente Positivo;Simulation,Strategy
+Tom Clancy's Ghost Recon® Breakpoint;59.99;Jan 23, 2023;['Windows'];22276;71;Mayormente Positivo;Action,Adventure
+Fallout: New Vegas;9.99;Oct 19, 2010;['Windows'];174043;96;Absolutamente Positivo;Action,RPG
+Forza Horizon 4;59.99;Mar 9, 2021;['Windows'];233329;90;Muy Positivo;Racing
+WorldBox - God Simulator;19.99;Dec 2, 2021;['Windows', 'Mac', 'Linux'];31785;94;Muy Positivo;Indie,Simulation,Early Access
+Slay the Spire;24.99;Jan 23, 2019;['Windows', 'Mac', 'Linux'];142860;97;Absolutamente Positivo;Indie,Strategy
+Breachway;14.99;Sep 26, 2024;['Windows'];322;74;Mayormente Positivo;RPG,Simulation,Strategy,Early Access
+Lies of P;59.99;Sep 18, 2023;['Windows', 'Mac'];30996;92;Muy Positivo;Action,Adventure,RPG
+Bellwright;29.99;Apr 23, 2024;['Windows'];7815;77;Muy Positivo;Action,RPG,Simulation,Strategy,Early Access
+Dead Cells;24.99;Aug 6, 2018;['Windows', 'Mac', 'Linux'];134929;97;Absolutamente Positivo;Action,Adventure,Indie
+Dungeon Tycoon;13.49;Sep 25, 2024;['Windows'];429;75;Mayormente Positivo;Simulation,Strategy
+RimWorld - Anomaly;24.99;Apr 11, 2024;['Windows', 'Mac', 'Linux'];2235;85;Mixto;Indie,Simulation,Strategy
+EARTH DEFENSE FORCE 6;59.99;Jul 25, 2024;['Windows'];4766;57;Mixto;Action
+FINAL FANTASY VII EVER CRISIS;0.0;Dec 6, 2023;['Windows'];2117;56;Mixto;Adventure,RPG
+Fate/Samurai Remnant;34.19;Sep 28, 2023;['Windows'];3844;91;Muy Positivo;Action,RPG
+Victoria 3;49.99;Oct 25, 2022;['Windows', 'Mac', 'Linux'];31239;68;Mayormente Positivo;Simulation,Strategy
+Class of '09: The Flip Side;14.99;Sep 23, 2024;['Windows', 'Mac'];1981;49;Mixto;Casual,Indie
+Muse Dash;0.53;Jun 19, 2019;['Windows', 'Mac'];99378;90;Muy Positivo;Action,Casual,Indie
+Alien: Isolation;39.99;Oct 6, 2014;['Windows', 'Mac', 'Linux'];41026;92;Muy Positivo;Action
+Ace Attorney Investigations Collection;39.99;Sep 5, 2024;['Windows'];925;96;Absolutamente Positivo;Adventure
+IdleOn - The Idle RPG;0.0;Apr 2, 2021;['Windows'];17907;78;Muy Positivo;Casual,Indie,Massively Multiplayer,RPG,Simulation,Free To Play,Early Access
+PAYDAY 3;39.99;Sep 21, 2023;['Windows'];40711;40;Mixto;Action,Adventure,RPG
+Overcooked! 2;24.99;Aug 7, 2018;['Windows', 'Mac', 'Linux'];47529;90;Muy Positivo;Action,Casual,Indie
+Street Fighter™ 6 - Year 2 Character Pass;29.99;Jun 7, 2024;['Windows'];90;55;Mayormente Negativo;Action,Adventure
+The Crew Motorfest;69.99;Apr 18, 2024;['Windows'];2831;70;Mayormente Positivo;Racing
+WARNO;39.99;May 23, 2024;['Windows'];9303;82;Muy Positivo;Action,Indie,Simulation,Strategy
+Hero's Land;0.0;May 17, 2023;['Windows'];41312;55;Mixto;Action,Adventure,Massively Multiplayer,RPG,Free To Play
+Battlefield™ 1;39.99;Jun 11, 2020;['Windows'];138189;86;Muy Positivo;Action,Massively Multiplayer
+Dawn of Defiance;19.99;Aug 15, 2024;['Windows'];1038;79;Mayormente Positivo;Action,Adventure,Early Access
+Borderlands: The Pre-Sequel;39.99;Oct 13, 2014;['Windows', 'Mac', 'Linux'];28399;83;Muy Positivo;Action,RPG
+Workers & Resources: Soviet Republic;19.99;Jun 20, 2024;['Windows'];16801;91;Muy Positivo;Simulation,Strategy
+Vampire Survivors;4.99;Oct 20, 2022;['Windows', 'Mac'];223815;98;Absolutamente Positivo;Action,Casual,Indie,RPG
+Tom Clancy’s The Division® 2;39.99;Jan 12, 2023;['Windows'];15706;75;Muy Positivo;Action,Adventure,RPG
+TRIANGLE STRATEGY;23.99;Oct 13, 2022;['Windows'];2163;79;Mayormente Positivo;RPG,Simulation,Strategy
+F1® 24;69.99;May 31, 2024;['Windows', 'Group_separator'];4339;66;Mayormente Positivo;Racing,Sports
+Noita;19.99;Oct 15, 2020;['Windows'];64296;95;Muy Positivo;Action,Adventure,Indie,RPG,Simulation
+Stray;29.99;Jul 19, 2022;['Windows', 'Mac'];129828;97;Absolutamente Positivo;Adventure,Indie
+Moonstone Island;12.99;Sep 20, 2023;['Windows', 'Mac', 'Linux'];2677;85;Mayormente Positivo;Adventure,Indie,RPG
+Trailmakers;6.24;Sep 18, 2019;['Windows'];19848;93;Muy Positivo;Action,Adventure,Indie,Racing,Simulation
+DOOM Eternal;39.99;Mar 19, 2020;['Windows'];166910;91;Muy Positivo;Action
+Escape Simulator;19.99;Oct 19, 2021;['Windows', 'Mac', 'Linux', 'Group_separator'];13086;94;Muy Positivo;Adventure,Casual,Indie,Simulation
+Two Point Campus;5.99;Aug 9, 2022;['Windows', 'Mac', 'Linux'];3734;88;Muy Positivo;Casual,Indie,Simulation,Strategy
+The Sims™ 4 Lovestruck Expansion Pack;39.99;Jul 25, 2024;['Windows'];72;48;Mixto;Adventure,Casual,Simulation
+Cassette Beasts;11.99;Apr 26, 2023;['Windows', 'Linux'];6462;95;Mayormente Positivo;Indie,RPG
+The Sims™ 3;19.99;Jan 27, 2011;['Windows'];28650;86;Muy Positivo;Simulation
+Hades;24.99;Sep 17, 2020;['Windows', 'Mac'];247516;98;Absolutamente Positivo;Action,Indie,RPG
+STAR WARS Jedi: Survivor™;69.99;Apr 27, 2023;['Windows'];51759;67;Mixto;Action,Adventure
+PAYDAY 2;9.99;Aug 13, 2013;['Windows', 'Linux', 'Group_separator'];431138;90;Muy Positivo;Action,RPG
+Wartales;34.99;Apr 12, 2023;['Windows'];23506;90;Muy Positivo;Adventure,Indie,RPG,Strategy
+The Elder Scrolls V: Skyrim Anniversary Upgrade;19.99;Nov 10, 2021;['Windows'];5944;50;Mixto;RPG
+THE FINALS - Hedge Hunter Set;19.99;Sep 26, 2024;['Windows'];16;81;Positivo;Action,Free To Play
+Fears to Fathom - Woodbury Getaway;9.99;Sep 12, 2024;['Windows'];1489;84;Muy Positivo;Adventure,Casual,Indie
+The Isle;19.99;Dec 1, 2015;['Windows'];77096;81;Muy Positivo;Action,Adventure,Indie,Massively Multiplayer,Simulation,Early Access
+Chivalry 2;39.99;Jun 12, 2022;['Windows'];31786;81;Muy Positivo;Action,Massively Multiplayer
+Dead Island 2;49.99;Apr 22, 2024;['Windows'];6350;74;Muy Positivo;Action,Adventure
+CarX Street - Deluxe Cars;10.99;Aug 29, 2024;['Windows'];77;75;Muy Positivo;Massively Multiplayer,Racing,Simulation,Sports
+DREDGE - The Iron Rig;11.99;Aug 15, 2024;['Windows'];312;84;Mayormente Positivo;Adventure,RPG
+FINAL FANTASY VII REMAKE INTERGRADE;69.99;Jun 17, 2022;['Windows'];25101;89;Muy Positivo;Action,Adventure,RPG
+My Summer Car;14.99;Oct 24, 2016;['Windows'];71610;94;Muy Positivo;Indie,Racing,Simulation,Early Access
+Batman™: Arkham Knight;19.99;Jun 23, 2015;['Windows'];86965;91;Absolutamente Positivo;Action,Adventure
+Tavern Manager Simulator 🍻;11.04;Aug 13, 2024;['Windows'];1240;85;Muy Positivo;Casual,Indie,Simulation
+RimWorld - Biotech;24.99;Oct 21, 2022;['Windows', 'Mac', 'Linux'];2612;92;Muy Positivo;Indie,Simulation,Strategy
+Inscryption;19.99;Oct 19, 2021;['Windows', 'Mac', 'Linux'];110395;96;Absolutamente Positivo;Adventure,Indie,Strategy
+Warhammer 40,000: Rogue Trader - Deluxe Pack;8.99;Dec 7, 2023;['Windows', 'Mac'];51;66;Mixto;Adventure,Indie,RPG,Strategy
+Tiny Tina's Wonderlands;59.99;Jun 23, 2022;['Windows'];13948;74;Mixto;Action,Adventure,RPG
+Mafia: Definitive Edition;39.99;Sep 24, 2020;['Windows'];62362;86;Muy Positivo;Action,Adventure
+Shop Titans;0.0;May 5, 2020;['Windows'];15665;78;Mayormente Positivo;Adventure,Casual,RPG,Simulation,Free To Play
+Titanfall® 2;29.99;Jun 18, 2020;['Windows'];207027;95;Absolutamente Positivo;Action
+BATTLETECH;9.99;Apr 24, 2018;['Windows', 'Mac', 'Linux'];20970;83;Muy Positivo;Action,Adventure,Strategy
+Construction Simulator;34.99;Sep 20, 2022;['Windows'];7162;81;Mayormente Positivo;Casual,Simulation
+Detroit: Become Human;39.99;Jun 18, 2020;['Windows'];107132;95;Absolutamente Positivo;Action,Adventure
+Contraband Police;29.99;Mar 8, 2023;['Windows'];16180;95;Muy Positivo;Action,Adventure,Simulation
+The Texas Chain Saw Massacre;19.99;Aug 18, 2023;['Windows'];16332;72;Mixto;Action,Indie
+Coral Island;29.99;Nov 14, 2023;['Windows'];15320;87;Muy Positivo;Adventure,Casual,Indie,RPG,Simulation,Strategy
+Pummel Party;14.99;Sep 20, 2018;['Windows'];40498;89;Muy Positivo;Action,Casual,Indie
+MY HERO ULTRA RUMBLE;0.0;Sep 28, 2023;['Windows'];17777;66;Mixto;Action,Casual,Free To Play
+Avatar: Frontiers of Pandora™;69.99;Jun 17, 2024;['Windows'];1179;62;Mixto;Action,Adventure
+Crossout;0.0;Jul 26, 2017;['Windows'];61348;75;Mayormente Positivo;Action,Adventure,Massively Multiplayer,Racing,Free To Play
+MechWarrior 5: Mercenaries;29.99;May 26, 2021;['Windows'];9634;84;Muy Positivo;Action,Simulation
+Warhammer 40,000: Boltgun;21.99;May 23, 2023;['Windows'];11955;91;Muy Positivo;Action,Indie
+Albion Online;0.0;May 16, 2018;['Windows', 'Mac', 'Linux'];76388;79;Mayormente Positivo;Massively Multiplayer,RPG,Free To Play
+Days Gone;49.99;May 17, 2021;['Windows'];62950;92;Muy Positivo;Action,Adventure
+ASTRONEER;29.99;Feb 5, 2019;['Windows'];103434;92;Muy Positivo;Adventure,Indie
+Nioh 2 – The Complete Edition;27.49;Feb 5, 2021;['Windows'];29062;88;Mayormente Positivo;Action,RPG
+ASKA;24.99;Jun 20, 2024;['Windows'];3508;77;Muy Positivo;Adventure,Simulation,Strategy,Early Access
+Halls of Torment;4.99;Sep 24, 2024;['Windows', 'Linux'];22908;96;Muy Positivo;Action,Indie,RPG
+Warhammer 40,000: Dawn of War - Anniversary Edition;7.0;Aug 7, 2007;['Windows'];7491;95;Muy Positivo;Strategy
+Oxygen Not Included;24.99;Jul 30, 2019;['Windows', 'Mac', 'Linux'];112297;96;Absolutamente Positivo;Indie,Simulation
+Medieval Dynasty;34.99;Sep 23, 2021;['Windows'];33463;90;Muy Positivo;Action,Adventure,Indie,RPG,Simulation
+Atelier Ryza 3: Alchemist of the End & the Secret Key;35.99;Mar 23, 2023;['Windows'];1555;91;Muy Positivo;Adventure,Casual,RPG,Simulation
+The Crew™ 2;49.99;Jun 28, 2018;['Windows'];73797;78;Mixto;Action,Massively Multiplayer,Racing
+Fate/stay night REMASTERED;26.99;Aug 7, 2024;['Windows'];1586;94;Muy Positivo;Adventure
+Phoenix Wright: Ace Attorney Trilogy;9.89;Apr 9, 2019;['Windows'];26691;97;Absolutamente Positivo;Adventure
+Pacific Drive;29.99;Feb 21, 2024;['Windows'];11415;82;Muy Positivo;Action,Adventure,Indie,Racing,Simulation
+My Time at Sandrock;39.99;Nov 2, 2023;['Windows'];20677;88;Muy Positivo;Adventure,Casual,Indie,RPG,Simulation
+Into the Radius 2;39.99;Jul 24, 2024;['Windows', 'Group_separator'];1807;75;Mayormente Positivo;Action,Adventure,Indie,Simulation,Early Access
+Assassin's Creed® Odyssey;59.99;Oct 5, 2018;['Windows'];144176;89;Muy Positivo;Action,Adventure,RPG
+WitchSpring R;27.29;Sep 25, 2023;['Windows'];4669;96;Muy Positivo;Adventure,Indie,RPG
+Elite Dangerous;19.99;Apr 2, 2015;['Windows', 'Group_separator'];72313;76;Mayormente Positivo;Action,Adventure,Massively Multiplayer,RPG,Simulation,Strategy
+Green Hell;8.58;Sep 5, 2019;['Windows'];54063;86;Muy Positivo;Action,Adventure,Indie,Simulation
+XCOM 2: War of the Chosen;7.6;Dec 3, 2018;['Windows', 'Mac', 'Linux'];3434;82;Muy Positivo;Strategy
+Slay the Princess;17.99;Oct 23, 2023;['Windows', 'Mac', 'Linux'];14159;97;Absolutamente Positivo;Adventure,Indie,RPG,Simulation
+Control Ultimate Edition;7.99;Aug 27, 2020;['Windows'];35502;88;Muy Positivo;Action,Adventure
+Megaloot;9.99;Aug 30, 2024;['Windows'];2104;77;Mayormente Positivo;Casual,Indie,RPG,Strategy
+Insurgency: Sandstorm;29.99;Dec 12, 2018;['Windows'];94535;85;Muy Positivo;Action
+Dead Space;59.99;Jan 27, 2023;['Windows'];37617;91;Muy Positivo;Action,Adventure
+Cult of the Lamb: Pilgrim Pack;6.99;Aug 12, 2024;['Windows', 'Mac'];128;94;Muy Positivo;Action,Adventure,Indie,Strategy
+Call to Arms - Gates of Hell: Ostfront;34.99;Jun 11, 2021;['Windows'];17262;82;Muy Positivo;Action,Simulation,Strategy
+DJMAX RESPECT V;49.99;Mar 11, 2020;['Windows'];23044;89;Muy Positivo;Action,Casual,Sports
+Solasta: Crown of the Magister;8.99;May 27, 2021;['Windows', 'Mac'];16918;88;Muy Positivo;Adventure,RPG,Strategy
+Teenage Mutant Ninja Turtles: Shredder's Revenge;24.99;Jun 16, 2022;['Windows', 'Linux'];11457;94;Muy Positivo;Action,Adventure,Casual,Indie
+Automation - The Car Company Tycoon Game;29.99;Mar 12, 2015;['Windows'];11496;92;Muy Positivo;Indie,Racing,Simulation,Strategy,Early Access
+Dread Dawn;17.99;Sep 30, 2024;['Windows'];386;43;Mixto;Action,Adventure,Indie,RPG
+Universe Sandbox;29.99;Aug 24, 2015;['Windows', 'Mac', 'Group_separator'];21433;96;Absolutamente Positivo;Casual,Indie,Simulation,Early Access
+Soulmask;26.99;May 30, 2024;['Windows'];9030;78;Mayormente Positivo;Adventure,Indie,Massively Multiplayer,RPG,Simulation,Early Access
+Pixel Gun 3D: PC Edition;0.0;Apr 2, 2024;['Windows'];29386;63;Mayormente Positivo;Action,Adventure,Massively Multiplayer,Free To Play
+Governor of Poker 3;0.0;Feb 19, 2016;['Windows', 'Mac'];15358;69;Mixto;Casual,Massively Multiplayer,Simulation,Free To Play
+Barony;19.99;Jun 23, 2015;['Windows', 'Mac', 'Linux'];5813;92;Muy Positivo;Action,Adventure,Indie,RPG
+THE FINALS - Season 4 Starter Pack;9.99;Sep 26, 2024;['Windows'];34;100;Positivo;Action,Free To Play
+Last Epoch;34.99;Feb 21, 2024;['Windows'];88553;77;Mixto;Action,Adventure,Indie,RPG
+Critter Cove;24.99;Sep 10, 2024;['Windows'];658;96;Absolutamente Positivo;Adventure,Indie,Simulation,Early Access
+Persona 3 Reload: Expansion Pass;34.99;Mar 11, 2024;['Windows'];2038;27;Mayormente Negativo;Adventure,RPG,Strategy
+Tom Clancy's Ghost Recon® Wildlands;49.99;Mar 6, 2017;['Windows'];77574;80;Mayormente Positivo;Action,Adventure
+Arco;15.99;Aug 15, 2024;['Windows', 'Mac'];629;98;Absolutamente Positivo;Action,Indie,Strategy
+BOOK OF HOURS;17.49;Aug 17, 2023;['Windows', 'Mac', 'Linux'];2648;92;Muy Positivo;Indie,RPG,Simulation
+Old World;19.99;May 18, 2022;['Windows', 'Mac', 'Linux'];3144;81;Muy Positivo;Simulation,Strategy
+Eiyuden Chronicle: Hundred Heroes;32.49;Apr 23, 2024;['Windows'];2105;78;Mayormente Positivo;Action,Adventure,Indie,RPG,Strategy
+Wolfenstein: The New Order;4.99;May 19, 2014;['Windows'];39477;90;Muy Positivo;Action
+Far Cry® 5;59.99;Mar 26, 2018;['Windows'];146122;80;Muy Positivo;Action,Adventure
+Crush Crush;0.0;Oct 18, 2016;['Windows', 'Mac', 'Linux'];26248;89;Muy Positivo;Casual,Indie,Free To Play
+Towerborne;24.99;Sep 10, 2024;['Windows'];393;81;Muy Positivo;Action,Adventure,RPG,Early Access
+S.T.A.L.K.E.R.: Shadow of Chernobyl;9.99;Mar 20, 2007;['Windows'];33298;94;Absolutamente Positivo;Action,RPG
+Ratchet & Clank: Rift Apart;59.99;Jul 26, 2023;['Windows'];7057;89;Muy Positivo;Action,Adventure
+Turmoil;12.99;Jun 2, 2016;['Windows', 'Mac', 'Linux'];11303;92;Muy Positivo;Indie,Simulation,Strategy
+The Elder Scrolls Online: Gold Road;19.99;Jun 3, 2024;['Windows', 'Mac'];220;45;Mixto;Action,Adventure,Massively Multiplayer,RPG
+Stellaris: The Machine Age;24.99;Apr 11, 2024;['Windows', 'Mac', 'Linux'];668;81;Muy Positivo;Simulation,Strategy
+God of War Ragnarök - Digital Deluxe Edition Upgrade;69.99;Sep 19, 2024;['Windows'];25;80;Positivo;Action,Adventure,RPG
+Rooftops & Alleys: The Parkour Game;15.99;May 21, 2024;['Windows'];3555;97;Absolutamente Positivo;Indie,Simulation,Sports,Early Access
+Old School RuneScape;0.0;Feb 24, 2021;['Windows', 'Mac'];16352;88;Mayormente Positivo;Adventure,Massively Multiplayer,RPG,Free To Play
+Prince of Persia The Lost Crown;39.99;Aug 8, 2024;['Windows'];1152;82;Muy Positivo;Action,Adventure
+Warhammer 40,000: Gladius - Relics of War;36.73;Jul 12, 2018;['Windows', 'Linux'];6873;82;Muy Positivo;Strategy
+Baldur's Gate 3 - Digital Deluxe Edition DLC;9.99;Aug 3, 2023;['Windows', 'Mac'];4050;96;Muy Positivo;Adventure,RPG,Strategy
+Shogun Showdown;14.99;Sep 5, 2024;['Windows', 'Mac', 'Linux'];3135;95;Muy Positivo;Indie,RPG,Strategy
+Aimlabs;0.0;Jun 16, 2023;['Windows'];116658;93;Muy Positivo;Action,Adventure,Casual,Indie,Simulation,Free To Play
+Rogue Legacy 2;12.49;Apr 28, 2022;['Windows', 'Mac', 'Linux'];13227;90;Muy Positivo;Action,Adventure,Indie,RPG
+DRAGON QUEST MONSTERS: The Dark Prince;39.99;Sep 11, 2024;['Windows'];295;77;Mayormente Positivo;RPG
+Planet Coaster;44.99;Nov 17, 2016;['Windows', 'Mac'];55043;91;Muy Positivo;Action,Adventure,Casual,Simulation,Strategy
+Yarimono;24.99;Aug 30, 2024;['Windows'];1154;89;Muy Positivo;Adventure,Indie,RPG
+Skull and Bones;59.99;Aug 22, 2024;['Windows'];933;66;Mixto;Action,Adventure
+Street Fighter™ 6 - Year 2 Ultimate Pass;49.99;Jun 7, 2024;['Windows'];88;73;Mayormente Positivo;Action,Adventure
+Battle Brothers;14.99;Mar 24, 2017;['Windows'];20642;88;Muy Positivo;Indie,RPG,Strategy
+Bopl Battle;6.49;Nov 16, 2023;['Windows'];10466;96;Absolutamente Positivo;Action
+Muse Dash - Muse Plus;20.99;Oct 4, 2023;['Windows', 'Mac'];371;76;Mayormente Positivo;Action,Casual,Indie
+kings call;0.0;Dec 25, 2023;['Windows', 'Mac'];371;66;Mixto;Casual,Massively Multiplayer,Racing,RPG,Simulation,Strategy
+The Long Drive;15.99;Sep 25, 2019;['Windows'];34053;91;Muy Positivo;Action,Adventure,Casual,Indie,Simulation,Early Access
+X4: Foundations;49.99;Nov 30, 2018;['Windows', 'Linux'];17739;78;Mayormente Positivo;Action,Simulation,Strategy
+GTFO;39.99;Dec 9, 2021;['Windows'];40113;87;Muy Positivo;Action
+VTOL VR;29.99;Aug 3, 2017;['Windows', 'Group_separator'];15819;98;Absolutamente Positivo;Action,Indie,Simulation
+In Stars And Time;15.99;Nov 20, 2023;['Windows'];3272;97;Absolutamente Positivo;RPG
+Sonic Frontiers;59.99;Nov 7, 2022;['Windows'];17858;91;Muy Positivo;Action,Adventure
+UBOAT;29.99;Aug 2, 2024;['Windows'];19268;82;Muy Positivo;Action,Indie,RPG,Simulation,Strategy
+THE FINALS - Metro Drifter Set;19.99;Jul 24, 2024;['Windows'];87;97;Muy Positivo;Action,Free To Play
+Call of Duty®: Modern Warfare® III - Tracer Pack: Underboss Pro Pack;19.99;Aug 2, 2024;['Windows'];15;66;Mixto;Action
+Horizon Zero Dawn™ Complete Edition;49.99;Aug 7, 2020;['Windows'];90494;87;Muy Positivo;Action,Adventure,RPG
+Resident Evil 7 Biohazard;19.99;Jan 23, 2017;['Windows'];60220;95;Absolutamente Positivo;Action,Adventure
+Tactics Ogre: Reborn;24.99;Nov 11, 2022;['Windows'];3026;74;Mixto;RPG,Simulation
+Far Cry® 4;5.99;Nov 2014;['Windows'];51269;83;Muy Positivo;Action,Adventure
+Starcom: Unknown Space;24.99;Sep 2, 2024;['Windows'];1610;92;Muy Positivo;Action,Adventure,Indie,RPG
+OUTBRK;34.99;Jun 28, 2024;['Windows'];1052;78;Mayormente Positivo;Action,Adventure,Simulation,Strategy,Early Access
+Wasteland 3;7.99;Aug 27, 2020;['Windows', 'Mac', 'Linux'];15480;84;Muy Positivo;RPG,Strategy
+Two Point Hospital;5.99;Aug 29, 2018;['Windows', 'Mac', 'Linux'];24441;92;Muy Positivo;Indie,Simulation
+Deep Rock Galactic: Survivor;9.99;Feb 14, 2024;['Windows'];27612;85;Muy Positivo;Action,Early Access
+PGA TOUR 2K23;59.99;Oct 13, 2022;['Windows'];4194;74;Muy Positivo;RPG,Simulation,Sports
+Call of Duty: World at War;19.99;Nov 18, 2008;['Windows'];41774;92;Absolutamente Positivo;Action
+Class of '09;9.99;Jun 10, 2021;['Windows', 'Mac', 'Linux'];4979;95;Muy Positivo;Casual,Indie,RPG,Simulation
+House Flipper;24.99;May 17, 2018;['Windows', 'Mac'];78584;94;Muy Positivo;Indie,Simulation
+Kerbal Space Program;39.99;Apr 27, 2015;['Windows', 'Mac', 'Linux'];100155;95;Absolutamente Positivo;Indie,Simulation
+Call of Duty®: Modern Warfare®;59.99;Mar 8, 2023;['Windows'];16453;78;Mayormente Positivo;Action
+Grand Theft Auto IV: The Complete Edition;19.99;Mar 24, 2020;['Windows'];141046;82;Muy Positivo;Action,Adventure
+Inkbound;17.99;Apr 9, 2024;['Windows'];2857;89;Muy Positivo;RPG,Strategy
+Dyson Sphere Program;15.99;Jan 20, 2021;['Windows'];73793;97;Absolutamente Positivo;Indie,Simulation,Strategy,Early Access
+Colony Ship: A Post-Earth Role Playing Game;23.99;Nov 9, 2023;['Windows'];2396;87;Muy Positivo;RPG
+Subnautica: Below Zero;29.99;May 13, 2021;['Windows', 'Mac'];83200;90;Muy Positivo;Adventure,Indie
+Fantasy Map Simulator;7.99;Sep 4, 2024;['Windows'];1168;90;Muy Positivo;Indie,Simulation,Strategy,Early Access
+Stolen Realm;9.99;Mar 8, 2024;['Windows', 'Mac'];2423;86;Mayormente Positivo;Adventure,RPG,Strategy
+NieR:Automata™;39.99;Mar 17, 2017;['Windows'];97647;87;Muy Positivo;Action,RPG
+Warhammer 40,000: Mechanicus;8.99;Nov 15, 2018;['Windows', 'Mac', 'Linux'];9803;92;Muy Positivo;Strategy
+Sid Meier's Civilization® V;29.99;Sep 21, 2010;['Windows', 'Mac', 'Linux'];121145;96;Muy Positivo;Strategy
+Sifu;22.0;Mar 28, 2023;['Windows'];11728;92;Muy Positivo;Action,Indie
+Drug Dealer Simulator 2;24.99;Jun 20, 2024;['Windows'];3586;70;Mixto;Action,Adventure,Indie,Simulation,Strategy
+My Singing Monsters;0.0;Mar 24, 2021;['Windows'];38092;93;Muy Positivo;Simulation,Free To Play
+Grim Dawn;24.99;Feb 25, 2016;['Windows'];79000;93;Muy Positivo;Action,Adventure,Indie,RPG
+Battlefield™ V;49.99;Oct 22, 2020;['Windows'];197887;70;Mixto;Action
+Mass Effect™ Legendary Edition;59.99;May 14, 2021;['Windows'];45454;90;Muy Positivo;Action,RPG
+Portal 2;9.99;Apr 18, 2011;['Windows', 'Linux'];336014;98;Absolutamente Positivo;Action,Adventure
+Supermarket Together;0.0;Aug 9, 2024;['Windows'];20581;92;Muy Positivo;Casual,Indie,Simulation,Free To Play
+Sniper Elite 5;49.99;May 25, 2022;['Windows'];15340;82;Muy Positivo;Action,Adventure
+A Way Out;29.99;Jun 18, 2020;['Windows'];46312;86;Muy Positivo;Action,Adventure,Indie
+Darkest Dungeon® II;39.99;May 8, 2023;['Windows', 'Mac'];16005;75;Mayormente Positivo;Indie,RPG,Strategy
+Supermarket Together - The Cool Pack;4.99;Aug 15, 2024;['Windows'];232;81;Mayormente Positivo;Casual,Indie,Simulation,Free To Play
+NARUTO TO BORUTO: SHINOBI STRIKER;19.99;Jun 29, 2023;['Windows'];41634;84;Mayormente Positivo;Action
+ONE PIECE Bounty Rush;0.0;Sep 23, 2024;['Windows'];652;63;Mixto;Action,Free To Play
+Monster Hunter Stories 2: Wings of Ruin;29.99;Jul 8, 2021;['Windows'];10652;81;Muy Positivo;Adventure,RPG
+SAMURAI WARRIORS 4 DX;34.99;May 13, 2024;['Windows'];225;86;Mayormente Positivo;Action
+Knock on the Coffin Lid;24.99;Aug 8, 2024;['Windows', 'Mac'];1713;84;Muy Positivo;Adventure,Indie,RPG,Strategy
+CarX Drift Racing Online;14.99;Nov 17, 2017;['Windows', 'Group_separator'];73447;95;Muy Positivo;Massively Multiplayer,Racing,Simulation,Sports
+OneShot;3.99;Dec 2016;['Windows', 'Mac', 'Linux'];42616;98;Absolutamente Positivo;Adventure,Casual,Indie
+Another Crab's Treasure;29.99;Apr 25, 2024;['Windows'];9812;94;Muy Positivo;Action,Adventure,Indie
+Master Detective Archives: RAIN CODE Plus;53.99;Jul 17, 2024;['Windows'];174;79;Muy Positivo;Action,Adventure
+Wayfinder;24.99;Jun 11, 2024;['Windows'];19198;51;Muy Positivo;Action,Adventure,RPG,Early Access
+Call of Duty®: Vanguard;59.99;Mar 8, 2023;['Windows'];2572;66;Mixto;Action
+Backpack Hero;12.99;Nov 14, 2023;['Windows', 'Mac', 'Linux'];6273;87;Muy Positivo;Adventure,Casual,Indie,RPG,Strategy
+Resident Evil Village;39.99;May 7, 2021;['Windows'];75339;95;Absolutamente Positivo;Action
+Total War: WARHAMMER III - Forge of the Chaos Dwarfs;24.99;Apr 13, 2023;['Windows', 'Mac', 'Linux'];2888;62;Mixto;Action,Strategy
+SpellForce: Conquest of Eo;14.99;Feb 3, 2023;['Windows'];1609;80;Muy Positivo;RPG,Strategy
+Roboquest;24.99;Nov 7, 2023;['Windows'];14490;95;Muy Positivo;Action,Indie
+Barotrauma;34.38;Mar 13, 2023;['Windows', 'Mac', 'Linux'];46818;93;Absolutamente Positivo;Action,Indie,Simulation,Strategy
+Class of '09: The Re-Up;14.99;Jun 1, 2023;['Windows', 'Mac'];3144;98;Absolutamente Positivo;Casual,Indie,RPG,Simulation
+Undisputed;49.99;Jan 31, 2023;['Windows'];13414;71;Mixto;Action,Simulation,Sports,Early Access
+Jagged Alliance 3;22.49;Jul 14, 2023;['Windows'];8788;89;Muy Positivo;Action,Strategy
+eFootball™;0.0;Sep 29, 2021;['Windows'];80807;44;Mixto;Simulation,Sports,Free To Play
+State of Decay 2: Juggernaut Edition;29.99;Mar 13, 2020;['Windows'];46265;83;Muy Positivo;Action,RPG,Simulation
+Empires of the Undergrowth;14.99;Jun 7, 2024;['Windows', 'Mac'];12280;94;Muy Positivo;Simulation,Strategy
+Trepang2;29.99;Jun 21, 2023;['Windows'];8713;93;Muy Positivo;Action,Indie
+American Truck Simulator - Nebraska;11.99;May 16, 2024;['Windows', 'Mac', 'Linux'];221;83;Muy Positivo;Indie,Simulation
+Oh Deer;9.99;Jun 27, 2024;['Windows'];1209;84;Muy Positivo;Action,Casual,Indie
+Nova Drift;13.49;Aug 12, 2024;['Windows', 'Mac'];11241;95;Muy Positivo;Action,Indie
+The Sims™ 4 Cats & Dogs;39.99;Jun 18, 2020;['Windows'];494;65;Mixto;Casual,Simulation
+Kenshi;29.99;Dec 6, 2018;['Windows'];74472;95;Absolutamente Positivo;Action,Indie,RPG,Simulation,Strategy
+Crusader Kings III: Royal Court;29.99;Feb 8, 2022;['Windows', 'Mac', 'Linux'];3146;45;Mixto;RPG,Simulation,Strategy
+Undertale;9.99;Sep 15, 2015;['Windows', 'Mac', 'Linux'];213056;96;Absolutamente Positivo;Indie,RPG
+Total War: ROME II - Emperor Edition;59.99;Sep 2, 2013;['Windows'];47893;86;Muy Positivo;Strategy
+Friends vs Friends;9.99;May 30, 2023;['Windows'];8656;84;Muy Positivo;Action,Indie
+ContractVille;19.99;May 31, 2024;['Windows'];1674;78;Muy Positivo;Casual,Indie,Simulation,Early Access
+The Binding of Isaac: Repentance;50.96;Mar 30, 2021;['Windows'];11789;82;Muy Positivo;Action,Adventure,RPG
+DRAGON BALL Z: KAKAROT;59.99;Jan 16, 2020;['Windows'];38915;93;Muy Positivo;Action,RPG
+Metro Exodus;29.99;Feb 14, 2020;['Windows', 'Mac', 'Linux'];94263;89;Muy Positivo;Action
+Lorn's Lure;14.99;Sep 20, 2024;['Windows', 'Mac', 'Linux'];956;89;Muy Positivo;Action,Adventure,Indie
+Level Zero: Extraction;19.99;Aug 13, 2024;['Windows'];1984;63;Mixto;Action,Adventure,Indie,Massively Multiplayer,Simulation,Early Access
+Sir Whoopass™: Immortal Death;8.49;Aug 18, 2022;['Windows'];964;85;Mayormente Positivo;Action,Adventure,Indie,RPG
+OneShot: World Machine Edition;7.99;Sep 30, 2024;['Windows'];285;97;Muy Positivo;Adventure,Casual,Indie
+Coromon;4.99;Mar 31, 2022;['Windows', 'Mac'];4399;87;Mayormente Positivo;Adventure,Indie,RPG,Strategy
+Cat Quest III;15.99;Aug 8, 2024;['Windows'];1460;94;Muy Positivo;Action,Adventure,Indie,RPG
+DRAGON BALL FighterZ;59.99;Jan 26, 2018;['Windows'];50690;91;Muy Positivo;Action
+Sunkenland;19.99;Aug 25, 2023;['Windows'];16531;81;Mayormente Positivo;Action,Indie,Early Access
+American Truck Simulator - Texas;17.99;Nov 15, 2022;['Windows', 'Mac', 'Linux'];620;87;Muy Positivo;Indie,Simulation
+Predecessor;0.0;Aug 20, 2024;['Windows'];12129;73;Mixto;Action,Strategy,Free To Play
+The Sims™ 4 Get To Work;39.99;Jun 18, 2020;['Windows'];221;46;Mixto;Simulation
+Company of Heroes 3;59.99;Feb 23, 2023;['Windows'];15941;56;Mixto;Action,Strategy
+I Am Your Beast;19.99;Sep 10, 2024;['Windows'];1011;99;Absolutamente Positivo;Action
+Way of the Hunter;39.99;Aug 16, 2022;['Windows'];5597;80;Muy Positivo;Adventure,Simulation,Sports
+METAL GEAR SOLID 3: Snake Eater - Master Collection Version;15.99;Oct 24, 2023;['Windows'];2612;82;Muy Positivo;Action
+Tony Hawk's™ Pro Skater™ 1 + 2;39.99;Oct 3, 2023;['Windows'];3287;90;Muy Positivo;Sports
+GROUND BRANCH;29.99;Aug 14, 2018;['Windows'];17724;90;Muy Positivo;Action,Indie,Simulation,Early Access
+Assassin's Creed Valhalla;59.99;Dec 6, 2022;['Windows'];23133;69;Mixto;Action,Adventure,RPG
+Expansion Starter Pack - Guild Wars 2: Heart of Thorns™ and Path of Fire™;29.99;Aug 23, 2022;['Windows'];193;83;Muy Positivo;Adventure,Massively Multiplayer,RPG,Free To Play
+ONE PIECE: PIRATE WARRIORS 4;14.94;Mar 26, 2020;['Windows'];14817;92;Muy Positivo;Action
+Library Of Ruina;29.99;Aug 10, 2021;['Windows'];25884;93;Absolutamente Positivo;Indie,RPG,Strategy
+Call of Duty®: Infinite Warfare;59.99;Nov 3, 2016;['Windows'];15127;61;Muy Positivo;Action,Adventure
+Mahjong Soul;0.0;Jul 23, 2024;['Windows'];1122;89;Muy Positivo;Casual,Strategy
+Overcooked! All You Can Eat;15.99;Mar 23, 2021;['Windows'];3484;74;Mixto;Casual,Indie,Simulation,Strategy
+The Sims™ 4 Seasons;39.99;Jun 18, 2020;['Windows'];458;67;Mixto;Simulation
+Murky Divers;7.99;Jun 19, 2024;['Windows'];1787;88;Muy Positivo;Action,Adventure,Indie,Early Access
+Chained Echoes;17.49;Dec 8, 2022;['Windows', 'Mac', 'Linux'];5835;90;Muy Positivo;Indie,RPG
+Infection Free Zone;24.99;Apr 11, 2024;['Windows'];9756;74;Mayormente Positivo;Action,Indie,Simulation,Strategy,Early Access
+The Jackbox Party Pack 7;29.99;Oct 14, 2020;['Windows', 'Mac', 'Linux'];3613;97;Muy Positivo;Casual,Indie,Strategy
+The Bloodline;9.99;Oct 5, 2023;['Windows'];2517;82;Mayormente Positivo;Action,Indie,RPG,Early Access
+Warhammer 40,000: Dawn of War III;7.99;Apr 27, 2017;['Windows', 'Mac', 'Linux'];12748;49;Mixto;Action,Simulation,Strategy
+Motel Manager Simulator;17.99;Aug 26, 2024;['Windows'];522;91;Muy Positivo;Casual,Simulation
+Atelier Ryza 2: Lost Legends & the Secret Fairy;23.99;Jan 25, 2021;['Windows'];2778;91;Muy Positivo;RPG
+People Playground;9.99;Jul 23, 2019;['Windows'];243851;98;Absolutamente Positivo;Action,Casual,Indie,Simulation
+Slime Rancher 2;29.99;Sep 22, 2022;['Windows'];25917;94;Muy Positivo;Action,Adventure,Casual,Indie,Simulation,Early Access
+UNCHARTED™: Legacy of Thieves Collection;49.99;Oct 19, 2022;['Windows'];14849;89;Muy Positivo;Adventure
+UNO;9.99;Jan 3, 2017;['Windows'];38531;72;Mixto;Casual
+Castle Crashers®;14.99;Sep 26, 2012;['Windows', 'Mac'];90097;96;Absolutamente Positivo;Action,Adventure,Casual,Indie,RPG
+Dome Keeper;17.99;Sep 27, 2022;['Windows', 'Mac', 'Linux'];11956;91;Muy Positivo;Action,Adventure,Indie,Simulation
+Monster Hunter Rise: Sunbreak;15.99;Jun 29, 2022;['Windows'];4421;61;Mixto;Action
+Totally Accurate Battle Simulator;19.99;Apr 1, 2021;['Windows', 'Mac'];119831;97;Absolutamente Positivo;Indie,Simulation,Strategy
+Devil May Cry 5;29.99;Mar 7, 2019;['Windows'];87038;96;Absolutamente Positivo;Action
+FINAL FANTASY XV WINDOWS EDITION;34.99;Mar 6, 2018;['Windows'];39288;83;Mayormente Positivo;RPG
+BattleBit Remastered;14.99;Jun 15, 2023;['Windows'];118841;88;Mayormente Positivo;Action,Massively Multiplayer,Early Access
+House Party;24.99;Jul 15, 2022;['Windows'];13210;86;Mayormente Positivo;Adventure,Casual,Indie,RPG,Simulation
+Total War: WARHAMMER III - Malakai – Thrones of Decay;8.99;Apr 30, 2024;['Windows', 'Mac', 'Linux'];903;87;Muy Positivo;Action,Strategy
+STAR WARS™ Battlefront™ II;39.99;Jun 11, 2020;['Windows'];52046;87;Muy Positivo;Action,Adventure
+Xenonauts 2;25.99;Jul 18, 2023;['Windows'];1974;80;Muy Positivo;RPG,Simulation,Strategy,Early Access
+Bomb Rush Cyberfunk;39.99;Aug 18, 2023;['Windows'];10356;98;Absolutamente Positivo;Action,Adventure,Indie
+Dwarf Fortress;29.99;Dec 6, 2022;['Windows', 'Linux'];24642;95;Muy Positivo;Indie,RPG,Simulation,Strategy
+Black Myth: Wukong Deluxe Edition Upgrade;9.99;Aug 19, 2024;['Windows'];2733;79;Mayormente Positivo;Action,Adventure,RPG
+BONELAB;39.99;Sep 29, 2022;['Windows', 'Group_separator'];13841;78;Muy Positivo;Action,Adventure,Simulation
+GreedFall II: The Dying World;39.99;Sep 24, 2024;['Windows'];208;56;Mixto;RPG,Early Access
+EA SPORTS FC™ 24;69.99;Sep 28, 2023;['Windows'];86435;56;Mixto;Simulation,Sports
+SIGNALIS;19.99;Oct 27, 2022;['Windows'];18773;96;Absolutamente Positivo;Action,Adventure,Indie
+DARK SOULS™ II;19.99;Apr 25, 2014;['Windows'];29988;87;Muy Positivo;Action,RPG
+Grand Theft Auto: San Andreas – The Definitive Edition;59.99;Jan 19, 2023;['Windows'];5542;73;Mayormente Positivo;Action,Adventure
+RoboCop: Rogue City;49.99;Nov 2, 2023;['Windows'];9611;89;Mayormente Positivo;Action,Adventure
+Senua’s Saga: Hellblade II;49.99;May 21, 2024;['Windows'];4442;87;Muy Positivo;Action,Adventure
+Total War: WARHAMMER III - Elspeth – Thrones of Decay;8.99;Apr 30, 2024;['Windows', 'Mac', 'Linux'];1049;89;Muy Positivo;Action,Strategy
+The Jackbox Party Pack 3;24.99;Oct 17, 2016;['Windows', 'Mac', 'Linux'];4621;96;Muy Positivo;Casual,Indie,Strategy
+Enotria: The Last Song;49.99;Sep 16, 2024;['Windows'];702;58;Mixto;Action,Adventure,Indie,RPG
+Train Simulator Classic 2024;29.99;Sep 17, 2015;['Windows'];17941;72;Mayormente Positivo;Simulation
+DC Universe™ Online;0.0;Nov 2, 2011;['Windows'];20542;80;Mayormente Positivo;Action,Adventure,Massively Multiplayer,RPG,Free To Play
+Unpacking;19.99;Nov 1, 2021;['Windows', 'Mac', 'Linux'];27670;93;Muy Positivo;Casual,Indie,Simulation
+PICO PARK;4.99;May 7, 2021;['Windows'];21035;91;Muy Positivo;Action,Casual,Indie
+GrandChase;0.0;Jul 27, 2021;['Windows'];22962;61;Muy Positivo;Action,Casual,Free To Play
+Monster Hunter World: Iceborne Deluxe Kit;9.74;Jan 9, 2020;['Windows'];174;79;Mayormente Positivo;Action
+Guilty Gear -Strive- Season Pass 4;24.99;Jul 22, 2024;['Windows'];142;91;Muy Positivo;Action
+Rabbit and Steel;14.99;May 9, 2024;['Windows'];5637;97;Absolutamente Positivo;Action,Adventure,Indie,RPG
+BIGFOOT;19.99;Jan 31, 2017;['Windows'];15560;83;Muy Positivo;Action,Adventure,Indie,Early Access
+The Elder Scrolls IV: Oblivion® Game of the Year Edition;14.99;Jun 16, 2009;['Windows'];37700;95;Muy Positivo;RPG
+Axon TD: Uprising - Tower Defense;15.99;Sep 27, 2024;['Windows'];362;91;Muy Positivo;Indie,Strategy
+Void Crew;21.99;Sep 7, 2023;['Windows'];2864;88;Muy Positivo;Action,Adventure,Early Access
+Emberward;14.99;Jun 25, 2024;['Windows'];1426;96;Absolutamente Positivo;Indie,Strategy,Early Access
+Dungeons 4;39.59;Nov 9, 2023;['Windows'];1702;88;Muy Positivo;Simulation,Strategy
+ENDER LILIES: Quietus of the Knights;9.99;Jun 21, 2021;['Windows'];32193;94;Muy Positivo;Action,Indie,RPG
+Human Fall Flat;19.99;Jul 22, 2016;['Windows', 'Mac'];157148;94;Muy Positivo;Adventure,Casual,Indie,Simulation
+Who's Your Daddy?!;6.99;May 13, 2016;['Windows', 'Mac'];23605;80;Muy Positivo;Action,Casual,Indie
+Remnant II® - The Dark Horizon;9.99;Nov 14, 2023;['Windows'];229;40;Mixto;Action,Adventure,RPG
+Resident Evil 2;39.99;Jan 24, 2019;['Windows'];109206;96;Absolutamente Positivo;Action
+Granblue Fantasy: Relink;59.99;Jan 31, 2024;['Windows'];31487;89;Muy Positivo;Action,Adventure,RPG
+Buckshot Roulette;2.99;Apr 4, 2024;['Windows', 'Linux'];29505;94;Absolutamente Positivo;Action,Indie,Simulation
+Pax Dei;39.99;Jun 18, 2024;['Windows'];2863;67;Mixto;Massively Multiplayer,RPG,Early Access
+BlazBlue Entropy Effect;15.59;Feb 14, 2024;['Windows', 'Mac'];19503;94;Absolutamente Positivo;Action,Adventure,Indie
+Copycat;14.99;Sep 19, 2024;['Windows'];631;80;Muy Positivo;Adventure,Indie
+Little Nightmares;19.99;Apr 27, 2017;['Windows'];44423;94;Muy Positivo;Adventure
+Vegas Infinite by PokerStars;0.0;Nov 10, 2023;['Windows', 'Group_separator'];5983;80;Mixto;Casual,Strategy,Free To Play
+Trove;0.0;Jul 9, 2015;['Windows'];92112;80;Mayormente Positivo;Action,Adventure,Casual,Massively Multiplayer,RPG,Free To Play
+RimWorld - Ideology;19.99;Jul 20, 2021;['Windows', 'Mac', 'Linux'];2899;83;Mixto;Indie,Simulation,Strategy
+Warhammer 40,000: Chaos Gate - Daemonhunters;44.99;May 5, 2022;['Windows'];9262;77;Mayormente Positivo;RPG,Strategy
+Gang Beasts;19.99;Dec 12, 2017;['Windows', 'Mac', 'Linux'];46707;84;Muy Positivo;Action,Adventure,Casual,Indie,Simulation
+DEAD OR ALIVE 6;11.99;Feb 28, 2019;['Windows'];3954;74;Mayormente Positivo;Action
+DOOM + DOOM II;9.99;Aug 3, 2007;['Windows'];18937;96;Absolutamente Positivo;Action
+Ultimate Chicken Horse;14.99;Mar 4, 2016;['Windows', 'Mac', 'Linux'];33668;96;Absolutamente Positivo;Action,Casual,Indie
+Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition;29.99;May 16, 2022;['Windows'];24416;89;Muy Positivo;Action,Casual,Strategy
+Le Mans Ultimate;37.99;Feb 20, 2024;['Windows'];4440;73;Mixto;Racing,Early Access
+Contra: Operation Galuga;23.99;Mar 12, 2024;['Windows'];401;88;Muy Positivo;Action
+Metal Slug: Awakening;0.0;Jul 19, 2024;['Windows'];1893;61;Mixto;Action,Adventure,Casual,Massively Multiplayer,RPG,Free To Play
+EVERSPACE™ 2;49.99;Apr 6, 2023;['Windows', 'Mac'];9729;87;Muy Positivo;Action,Adventure,RPG,Simulation
+The Sims™ 4 Cottage Living Expansion Pack;39.99;Jul 22, 2021;['Windows'];242;70;Mayormente Positivo;Casual,Simulation
+Call of Duty®: Modern Warfare® 3 (2011);39.99;Nov 8, 2011;['Windows'];13386;89;Muy Positivo;Action
+Granblue Fantasy Versus: Rising;49.99;Dec 13, 2023;['Windows'];3685;80;Mixto;Action
+Blasphemous 2;19.99;Aug 24, 2023;['Windows'];8767;92;Muy Positivo;Action,Adventure,Indie
+Need for Speed™ Unbound;69.99;Dec 1, 2022;['Windows'];30579;61;Mixto;Action,Racing
+Paladins®;0.0;May 8, 2018;['Windows'];345490;84;Mayormente Positivo;Action,Adventure,Massively Multiplayer,Strategy,Free To Play
+High On Life;39.99;Dec 13, 2022;['Windows'];14737;89;Muy Positivo;Action,Adventure
+Tales of Arise;39.99;Sep 9, 2021;['Windows'];25271;88;Muy Positivo;Action,RPG
+The Mortuary Assistant;24.99;Aug 2, 2022;['Windows'];5569;92;Muy Positivo;Adventure,Indie,Simulation
+Wild Bastards;34.99;Sep 12, 2024;['Windows'];227;80;Muy Positivo;Action,Indie,Strategy
+The Elder Scrolls V: Skyrim VR;59.99;Apr 2, 2018;['Windows', 'Group_separator'];8056;74;Muy Positivo;RPG
+Wolfenstein: The Old Blood;4.99;May 4, 2015;['Windows'];14556;89;Muy Positivo;Action
+Aliens: Fireteam Elite;29.99;Aug 23, 2021;['Windows'];18153;81;Muy Positivo;Action,RPG
+Total War: WARHAMMER III - Tamurkhan – Thrones of Decay;8.99;Apr 30, 2024;['Windows', 'Mac', 'Linux'];753;90;Muy Positivo;Action,Strategy
+Northgard;29.99;Mar 7, 2018;['Windows', 'Mac', 'Linux'];47154;87;Mayormente Positivo;Adventure,Indie,Simulation,Strategy
+Middle-earth™: Shadow of War™;49.99;Oct 9, 2017;['Windows'];75711;88;Muy Positivo;Action,Adventure,RPG
+Geometry Dash;4.99;Dec 22, 2014;['Windows', 'Mac'];343492;93;Muy Positivo;Action,Indie
+Intravenous 2;19.99;Aug 15, 2024;['Windows'];896;95;Muy Positivo;Action,Adventure,Strategy
+Generation Zero®;24.99;Mar 26, 2019;['Windows'];26461;75;Mayormente Positivo;Action,Adventure
+Football Manager 2024;59.99;Nov 6, 2023;['Windows', 'Mac'];9897;90;Muy Positivo;Simulation,Sports,Strategy
+Myth of Empires;14.99;Feb 21, 2024;['Windows'];14425;70;Mixto;Action,Adventure,Indie,Massively Multiplayer,RPG
+Timberborn;24.99;Sep 15, 2021;['Windows', 'Mac'];24947;95;Absolutamente Positivo;Indie,Simulation,Strategy,Early Access
+Bloodstained: Ritual of the Night;9.99;Jun 18, 2019;['Windows'];27191;94;Muy Positivo;Action,Adventure,RPG
+Fable Anniversary;34.99;Sep 12, 2014;['Windows'];12076;85;Muy Positivo;RPG
+Outward Definitive Edition;4.79;May 17, 2022;['Windows'];20990;73;Mixto;RPG
+Vigor;0.0;Sep 18, 2024;['Windows'];3243;47;Mixto;Action,Adventure,Free To Play
+FAIRY TAIL;29.99;Jul 29, 2020;['Windows'];1334;73;Muy Positivo;Action,Adventure,RPG
+Nobody Wants to Die;24.99;Jul 17, 2024;['Windows'];2021;85;Muy Positivo;Adventure
+Hollowbody;16.99;Sep 12, 2024;['Windows'];806;90;Muy Positivo;Adventure,Indie
+Cookie Clicker;4.99;Sep 1, 2021;['Windows'];65772;96;Absolutamente Positivo;Casual,Indie,Simulation,Strategy
+Wolfenstein: Youngblood;4.99;Jul 25, 2019;['Windows'];10874;45;Mayormente Negativo;Action
+嗜血印 Bloody Spell;4.49;Jan 26, 2022;['Windows'];29634;89;Muy Positivo;Action,Adventure,Indie,RPG
+Brick Rigs;18.99;Jul 14, 2023;['Windows'];40196;94;Absolutamente Positivo;Simulation
+Crab Champions;9.99;Apr 1, 2023;['Windows'];20349;97;Absolutamente Positivo;Action,Adventure,Casual,Indie,Early Access
+Fallout 3: Game of the Year Edition;19.99;Dec 17, 2009;['Windows'];37979;80;Muy Positivo;RPG
+Yakuza: Like a Dragon;19.99;Nov 10, 2020;['Windows'];22774;94;Muy Positivo;Action,Adventure,RPG
+The Crust;29.99;Jul 15, 2024;['Windows'];1504;73;Mayormente Positivo;Simulation,Strategy,Early Access
+Poppy Playtime;0.0;Oct 12, 2021;['Windows'];77937;83;Muy Positivo;Action,Adventure,Indie
+World War Z;29.99;Sep 21, 2021;['Windows'];16222;83;Mayormente Positivo;Action
+This Bed We Made;24.99;Nov 1, 2023;['Windows'];1582;90;Muy Positivo;Adventure,Indie
+Assassin’s Creed® IV Black Flag™;39.99;Nov 19, 2013;['Windows'];59738;88;Muy Positivo;Action,Adventure
+Potion Craft: Alchemist Simulator;19.99;Dec 13, 2022;['Windows'];26686;91;Muy Positivo;Indie,Simulation
+Papers, Please;9.99;Aug 8, 2013;['Windows', 'Mac', 'Linux'];64128;97;Absolutamente Positivo;Adventure,Indie
+The Sims™ 4 High School Years Expansion Pack;39.99;Jul 28, 2022;['Windows'];278;43;Mixto;Casual,Simulation
+Hydroneer;14.99;May 8, 2020;['Windows'];21750;86;Mixto;Adventure,Casual,Indie,Simulation,Strategy
+Gunfire Reborn - Artisan and Magician;6.99;May 31, 2023;['Windows'];558;89;Muy Positivo;Action,Adventure,Indie,RPG
+Resident Evil 3;39.99;Jan 24, 2019;['Windows'];56950;81;Muy Positivo;Action
+DUCKSIDE Supporter pack;4.99;Sep 25, 2024;['Windows'];23;91;Positivo;Action,Indie,Massively Multiplayer,Simulation
+Expeditions: A MudRunner Game;39.99;Mar 5, 2024;['Windows'];1845;54;Mixto;Adventure,Racing,Simulation
+OMORI;19.99;Dec 25, 2020;['Windows', 'Mac'];66122;97;Absolutamente Positivo;Adventure,Indie,RPG
+Dragon Age™ Inquisition;39.99;Jun 4, 2020;['Windows'];15622;75;Mayormente Positivo;Action,Adventure,RPG,Strategy
+MX vs ATV Legends;39.99;Jun 28, 2022;['Windows'];1664;74;Muy Positivo;Racing,Sports
+BioShock Infinite;29.99;Mar 25, 2013;['Windows', 'Mac', 'Linux'];103251;93;Muy Positivo;Action
+Sonic Adventure 2;9.99;Nov 19, 2012;['Windows'];17670;89;Muy Positivo;Action
+Spirit City: Lofi Sessions;11.99;Apr 8, 2024;['Windows'];5521;97;Absolutamente Positivo;Casual,Indie,Simulation
+Quasimorph;15.99;Oct 2, 2023;['Windows'];2899;79;Muy Positivo;Indie,RPG,Simulation,Strategy,Early Access
+Crusader Kings III: Legacy of Persia;12.99;Nov 9, 2023;['Windows', 'Mac', 'Linux'];525;58;Mixto;RPG,Simulation,Strategy
+The Sims™ 4 Horse Ranch Expansion Pack;39.99;Jul 20, 2023;['Windows'];250;47;Mixto;Casual,Simulation
+SPORE™;19.99;Dec 19, 2008;['Windows'];55979;92;Muy Positivo;Action,Adventure,Casual,RPG,Simulation,Strategy
+Funko Fusion;49.99;Sep 13, 2024;['Windows'];241;69;Mixto;Action,Adventure
+SCP: 5K;19.99;Feb 22, 2022;['Windows'];8361;79;Muy Positivo;Action,Indie,Massively Multiplayer,Strategy,Early Access
+除邪(CHUXIE);6.99;Jul 28, 2024;['Windows'];330;80;Mayormente Positivo;Action,Adventure
+Terminator: Resistance;39.99;Nov 14, 2019;['Windows'];13121;91;Muy Positivo;Action,Adventure,RPG
+Suicide Squad: Kill the Justice League;69.99;Feb 2, 2024;['Windows'];6444;68;Mixto;Action
+Apollo Justice: Ace Attorney Trilogy;39.99;Jan 24, 2024;['Windows'];1654;91;Muy Positivo;Adventure
+Call of Duty®: Modern Warfare® II;69.99;Oct 27, 2022;['Windows'];6376;19;Mayormente Negativo;Action
+Need for Speed™ Heat;69.99;Jun 4, 2020;['Windows'];97029;84;Muy Positivo;Action,Adventure,Racing,Sports
+Squad 44;29.99;Aug 9, 2018;['Windows'];17199;79;Mayormente Positivo;Action,Indie,Massively Multiplayer,Strategy
+Dungeons & Dragons Online®;0.0;Jun 25, 2012;['Windows'];6893;71;Mayormente Positivo;Action,Adventure,Massively Multiplayer,RPG,Free To Play
+ROUNDS;5.99;Apr 1, 2021;['Windows'];25308;95;Muy Positivo;Action,Indie
+Sengoku Dynasty;29.99;Aug 10, 2023;['Windows'];3428;73;Muy Positivo;Adventure,RPG,Simulation,Early Access
+Darkwood;14.99;Aug 17, 2017;['Windows', 'Mac', 'Linux'];17460;94;Absolutamente Positivo;Action,Adventure,Indie,RPG
+NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS;59.99;Nov 16, 2023;['Windows'];2458;54;Mayormente Positivo;Action,Adventure
+Backpack Battles;11.69;Mar 8, 2024;['Windows', 'Linux'];10148;89;Muy Positivo;Strategy,Early Access
+RimWorld - Royalty;19.99;Feb 24, 2020;['Windows', 'Mac', 'Linux'];2130;84;Muy Positivo;Indie,Simulation,Strategy
+Yakuza 0;19.99;Aug 1, 2018;['Windows'];55058;95;Muy Positivo;Action,Adventure,RPG
+Goat Simulator 3;29.99;Feb 15, 2024;['Windows'];4044;97;Absolutamente Positivo;Adventure,Casual,Simulation
+Rec Room;0.0;Sep 2, 2021;['Windows', 'Group_separator'];66448;90;Muy Positivo;Adventure,Casual,Massively Multiplayer,Free To Play
+Symphony of War: The Nephilim Saga;9.99;Jun 10, 2022;['Windows'];10443;95;Muy Positivo;Adventure,Indie,RPG,Strategy
+Super Robot Wars 30;19.79;Oct 27, 2021;['Windows'];4945;87;Muy Positivo;RPG,Simulation,Strategy
+Idle Champions of the Forgotten Realms;0.0;Mar 25, 2020;['Windows', 'Mac'];13917;77;Mayormente Positivo;Action,Adventure,Indie,Strategy,Free To Play
+PlanetSide 2;0.0;Nov 20, 2012;['Windows'];72376;81;Muy Positivo;Action,Massively Multiplayer,Free To Play
+Rain World: Downpour;10.04;Jan 19, 2023;['Windows'];1536;94;Muy Positivo;Action,Adventure,Indie,Simulation
+Session: Skate Sim;39.99;Sep 22, 2022;['Windows'];11564;84;Mayormente Positivo;Indie,Simulation,Sports,Strategy
+Total War: WARHAMMER III - Shadows of Change;24.99;Aug 31, 2023;['Windows', 'Mac', 'Linux'];3353;38;Mayormente Negativo;Action,Strategy
+The Walking Dead: The Telltale Definitive Series;49.99;Oct 29, 2020;['Windows'];15664;96;Absolutamente Positivo;Adventure
+The Escapists 2;19.99;Aug 21, 2017;['Windows', 'Mac', 'Linux'];23935;91;Muy Positivo;Indie,Simulation,Strategy
+Soulash 2;15.19;Dec 4, 2023;['Windows'];1522;85;Muy Positivo;Adventure,Indie,RPG,Strategy,Early Access
+King Arthur: Knight's Tale;13.49;Apr 26, 2022;['Windows'];5605;83;Muy Positivo;RPG,Strategy
+Last Train Home;39.99;Nov 28, 2023;['Windows'];3083;86;Muy Positivo;Strategy
+Cult of the Lamb: Sinful Pack;4.99;Jan 16, 2024;['Windows', 'Mac'];144;98;Muy Positivo;Action,Adventure,Indie,Strategy
+The Sims™ 4 City Living;39.99;Jun 18, 2020;['Windows'];246;61;Mixto;Simulation
+VLADiK BRUTAL;11.99;Aug 9, 2024;['Windows'];5163;89;Muy Positivo;Action,Adventure,Casual,Indie
+Hi-Fi RUSH;29.99;Jan 25, 2023;['Windows'];24996;97;Absolutamente Positivo;Action
+The Long Dark;19.99;Aug 1, 2017;['Windows', 'Mac', 'Linux'];92027;91;Muy Positivo;Adventure,Indie,Simulation,Strategy
+Attack on Titan 2 - A.O.T.2;29.99;Apr 26, 2023;['Windows'];5857;93;Muy Positivo;Action
+Realm of Ink;15.29;Sep 26, 2024;['Windows'];648;91;Muy Positivo;Action,Adventure,Indie,RPG,Early Access
+Undawn;0.0;Jun 13, 2023;['Windows'];6080;54;Mixto;Adventure,Massively Multiplayer,RPG,Free To Play
+We Were Here Forever;17.99;May 10, 2022;['Windows'];12390;91;Muy Positivo;Adventure,Casual,Indie
+Digimon Survive;14.99;Jul 28, 2022;['Windows'];2626;80;Mixto;RPG
+Lost Judgment;59.99;Sep 14, 2022;['Windows'];4764;94;Absolutamente Positivo;Action,Adventure
+Dystopika;6.99;Jun 21, 2024;['Windows'];1489;96;Muy Positivo;Casual,Indie,Simulation,Strategy
+Caravan SandWitch;24.99;Sep 12, 2024;['Windows'];837;91;Muy Positivo;Adventure,Casual,Indie
+HELLCARD;24.99;Dec 7, 2017;['Windows'];2315;85;Muy Positivo;Adventure,Indie,RPG,Strategy
+Minecraft Dungeons;19.99;Sep 22, 2021;['Windows'];11208;91;Muy Positivo;Action,Adventure,RPG
+Prison Architect;29.99;Oct 6, 2015;['Windows', 'Mac', 'Linux'];56618;90;Muy Positivo;Indie,Simulation,Strategy
+Wreckfest;29.99;Jun 14, 2018;['Windows'];27880;87;Muy Positivo;Action,Indie,Racing,Simulation,Sports
+Shadows Over Loathing;15.86;Nov 11, 2022;['Windows', 'Mac'];2681;96;Muy Positivo;Adventure,Indie,RPG
+Lobotomy Corporation | Monster Management Simulation;24.99;Apr 9, 2018;['Windows'];34820;93;Absolutamente Positivo;Indie,Simulation
+Root;14.99;Sep 24, 2020;['Windows', 'Mac'];3444;90;Muy Positivo;Indie,Simulation,Strategy
+Call of Duty®: WWII;59.99;Nov 2, 2017;['Windows'];28956;69;Muy Positivo;Action
+Neverwinter;0.0;Dec 5, 2013;['Windows'];37976;77;Muy Positivo;Action,Adventure,Massively Multiplayer,RPG,Free To Play
+Sker Ritual;24.99;Apr 18, 2024;['Windows'];4204;84;Muy Positivo;Action,Adventure,Indie
+Kingdom Rush 5: Alliance TD;19.99;Jul 25, 2024;['Windows', 'Mac'];5084;85;Muy Positivo;Indie,Strategy
+Drill Core;19.99;Sep 12, 2024;['Windows'];564;82;Muy Positivo;Indie,Strategy,Early Access
+Digimon Story Cyber Sleuth: Complete Edition;9.99;Oct 17, 2019;['Windows'];8170;91;Muy Positivo;RPG
+Nodebuster;2.99;Aug 13, 2024;['Windows'];2032;97;Absolutamente Positivo;Casual,Indie,Simulation,Strategy
+Keep Talking and Nobody Explodes;14.99;Oct 8, 2015;['Windows', 'Mac', 'Linux', 'Group_separator'];11674;97;Muy Positivo;Indie
+American Truck Simulator - Kansas;11.99;Nov 30, 2023;['Windows', 'Mac', 'Linux'];248;87;Muy Positivo;Indie,Simulation
+Victoria 3: Sphere of Influence;29.99;Jun 24, 2024;['Windows', 'Mac', 'Linux'];1028;75;Mixto;Simulation,Strategy
+Liftoff®: FPV Drone Racing;19.99;Sep 13, 2018;['Windows', 'Mac', 'Linux'];9207;94;Absolutamente Positivo;Indie,Racing,Simulation,Sports
+Tower of Fantasy;0.0;Oct 19, 2022;['Windows'];10291;70;Mayormente Positivo;Action,Massively Multiplayer,RPG,Free To Play
+We Who Are About To Die;21.99;Nov 14, 2022;['Windows'];6295;88;Muy Positivo;Action,Indie,RPG,Simulation,Strategy,Early Access
+Spectre Divide - Founder's Pack;69.99;Sep 3, 2024;['Windows'];25;84;Positivo;Action
+The Binding of Isaac: Afterbirth;10.99;Oct 30, 2015;['Windows', 'Mac', 'Linux'];6965;93;Muy Positivo;Action,Adventure
+Hard Time III;14.99;Sep 9, 2024;['Windows'];324;82;Muy Positivo;Action,Adventure,Indie,RPG,Simulation
+Atomic Heart;59.99;Feb 20, 2023;['Windows'];24997;83;Mixto;Action,Adventure,RPG
+Ghosts of Tabor;24.99;Mar 20, 2023;['Windows', 'Group_separator'];7196;78;Mayormente Positivo;Action,Early Access
+Riders Republic;39.99;Jun 8, 2023;['Windows'];14817;83;Muy Positivo;Massively Multiplayer,Sports
+Aliens: Dark Descent;39.99;Jun 19, 2023;['Windows'];11060;88;Muy Positivo;Action,Strategy
+Crime Boss: Rockay City;13.99;Jun 18, 2024;['Windows'];4136;71;Mixto;Action
+Angel Legion;0.0;Aug 14, 2020;['Windows', 'Mac'];9223;84;Muy Positivo;Adventure,RPG,Strategy,Free To Play
+NARUTO SHIPPUDEN: Ultimate Ninja STORM 4;19.99;Feb 4, 2016;['Windows'];68190;90;Muy Positivo;Action,Adventure
+Little Nightmares II;29.99;Feb 10, 2021;['Windows'];32035;94;Muy Positivo;Adventure
+Total War: SHOGUN 2;29.99;Mar 15, 2011;['Windows', 'Mac', 'Linux'];33182;91;Muy Positivo;Strategy
+Battlefield 4™;39.99;Jun 11, 2020;['Windows'];52196;86;Mayormente Positivo;Action
+FINAL FANTASY® XIII;6.39;Oct 9, 2014;['Windows'];13799;74;Muy Positivo;RPG
+Into the Breach;7.49;Feb 27, 2018;['Windows', 'Mac', 'Linux'];16171;94;Muy Positivo;Indie,RPG,Simulation,Strategy
+IL-2 Sturmovik: Battle of Stalingrad;49.99;Oct 22, 2014;['Windows', 'Group_separator'];7463;79;Mixto;Action,Simulation
+DiRT Rally 2.0;19.99;Feb 25, 2019;['Windows', 'Group_separator'];31538;88;Muy Positivo;Racing,Simulation,Sports
+Game of Thrones Winter is Coming;0.0;Nov 14, 2019;['Windows'];2436;60;Mixto;Massively Multiplayer,RPG,Simulation,Strategy,Free To Play
+Terra Invicta;25.99;Sep 26, 2022;['Windows'];5424;80;Muy Positivo;Simulation,Strategy,Early Access
+Watch_Dogs® 2;49.99;Nov 28, 2016;['Windows'];71455;82;Muy Positivo;Action,Adventure
+Digimon World: Next Order;59.99;Feb 21, 2023;['Windows'];1120;81;Muy Positivo;RPG,Simulation
+MADNESS: Project Nexus;19.99;Sep 29, 2021;['Windows'];13321;97;Absolutamente Positivo;Action,Indie
+Refind Self: The Personality Test Game;5.59;Nov 13, 2023;['Windows'];2079;86;Muy Positivo;Adventure,Casual,Indie
+MOBILE SUIT GUNDAM BATTLE OPERATION 2;0.0;May 30, 2023;['Windows'];18861;21;Mayormente Negativo;Action,Free To Play
+A Little to the Left: Seeing Stars;8.99;Jun 25, 2024;['Windows', 'Mac'];208;54;Mayormente Positivo;Casual,Indie
+V Rising - Legacy of Castlevania Premium Pack;19.99;May 8, 2024;['Windows'];224;90;Muy Positivo;Action,Adventure,Massively Multiplayer
+Out of the Park Baseball 25;49.99;Mar 15, 2024;['Windows', 'Mac'];588;85;Muy Positivo;Indie,Simulation,Sports,Strategy
+Cosmoteer: Starship Architect & Commander;19.99;Oct 24, 2022;['Windows'];9229;95;Muy Positivo;Simulation,Strategy,Early Access
+Bread & Fred;14.99;May 23, 2023;['Windows', 'Mac'];3105;84;Mayormente Positivo;Action,Adventure,Casual,Indie
+We Were Here Together;4.93;Oct 10, 2019;['Windows', 'Mac'];11780;84;Mayormente Positivo;Adventure,Casual,Indie
+STAR WARS™: Bounty Hunter™;19.99;Jul 31, 2024;['Windows'];523;89;Muy Positivo;Action,Adventure
+Dorfromantik;13.99;Apr 28, 2022;['Windows'];24462;96;Muy Positivo;Casual,Indie,Simulation,Strategy
+NEEDY STREAMER OVERLOAD;15.99;Jan 21, 2022;['Windows', 'Mac'];38042;95;Absolutamente Positivo;Adventure,Indie
+Legendary Tales;38.31;Feb 8, 2024;['Windows', 'Group_separator'];2413;79;Mixto;Action,Adventure,Indie,RPG,Simulation
+Age of Empires III: Definitive Edition;0.0;Oct 15, 2020;['Windows'];44366;84;Muy Positivo;Free To Play,Strategy
+Forza Motorsport;69.99;Oct 9, 2023;['Windows'];7627;42;Mixto;Racing
+Zero Hour;18.99;Sep 9, 2024;['Windows'];25404;80;Mixto;Action,Simulation,Strategy
+Call of Duty®: Modern Warfare® 2 (2009);19.99;Nov 11, 2009;['Windows', 'Mac'];32154;93;Absolutamente Positivo;Action
+Paleo Pines;29.99;Sep 26, 2023;['Windows', 'Linux'];1393;88;Muy Positivo;Adventure,Casual,Indie,RPG,Simulation
+The Sims™ 4 Growing Together Expansion Pack;39.99;Mar 16, 2023;['Windows'];105;63;Mixto;Casual,Simulation
+F1® Manager 2024;34.99;Jul 23, 2024;['Windows'];1781;65;Mixto;Simulation,Strategy
+Blood Trail;24.99;Mar 27, 2019;['Windows', 'Group_separator'];4839;82;Mayormente Positivo;Action,Early Access
+Selaco;24.99;May 31, 2024;['Windows', 'Linux'];2776;93;Muy Positivo;Action,Adventure,Early Access
+Crow Country;19.99;May 9, 2024;['Windows'];3158;98;Absolutamente Positivo;Action,Indie
+EVE Online;0.0;Dec 15, 2010;['Windows', 'Mac'];34695;73;Mixto;Action,Massively Multiplayer,RPG,Strategy,Free To Play
+War of Rights;29.99;Dec 3, 2018;['Windows'];10634;88;Muy Positivo;Action,Indie,Simulation,Strategy,Early Access
+Teenage Mutant Ninja Turtles: The Cowabunga Collection;15.99;Aug 30, 2022;['Windows'];590;88;Muy Positivo;Action
+Fantasy Grounds VTT;9.99;Nov 5, 2020;['Windows', 'Mac', 'Linux'];645;82;Mixto;Indie,RPG,Strategy
+Call of Duty®: Black Ops III - Der Eisendrache Zombies Map;7.99;May 1, 2018;['Windows', 'Mac'];366;91;Muy Positivo;Action,Adventure
+Nuclear Option;17.99;Oct 15, 2023;['Windows'];2075;93;Muy Positivo;Action,Indie,Simulation,Early Access
+HARD BULLET;15.99;Oct 22, 2020;['Windows', 'Group_separator'];3997;88;Mayormente Positivo;Action,Adventure,Indie,Simulation,Early Access
+Viscera Cleanup Detail;12.99;Oct 23, 2015;['Windows', 'Mac'];16080;93;Muy Positivo;Indie,Simulation
+DOOM;19.99;May 12, 2016;['Windows'];132070;95;Absolutamente Positivo;Action
+Ni no Kuni Wrath of the White Witch™ Remastered;7.49;Sep 19, 2019;['Windows'];3288;84;Muy Positivo;Action,Adventure,RPG
+The Callisto Protocol™;19.99;Dec 1, 2022;['Windows'];30380;65;Mayormente Positivo;Action,Adventure
+Train Sim World® 4;39.99;Sep 26, 2023;['Windows'];2951;78;Mayormente Positivo;Simulation
+RAID: Shadow Legends;0.0;Jan 9, 2024;['Windows'];1420;56;Mixto;Massively Multiplayer,RPG,Strategy,Free To Play
+Wobbly Life;17.99;Jul 8, 2020;['Windows'];20924;97;Absolutamente Positivo;Action,Adventure,Casual,Indie,Simulation,Early Access
+RealFlight Evolution;99.99;Oct 27, 2022;['Windows', 'Group_separator'];431;82;Muy Positivo;Indie,Racing,Simulation
+FINAL FANTASY XII THE ZODIAC AGE;49.99;Feb 1, 2018;['Windows'];6735;90;Muy Positivo;RPG
+DYNASTY WARRIORS 8: Xtreme Legends Complete Edition;16.99;May 13, 2014;['Windows'];10992;84;Mixto;Action
+Gas Station Simulator - Car Junkyard DLC;15.29;Sep 19, 2024;['Windows'];41;73;Mayormente Positivo;Indie,Simulation
+Hatsune Miku: Project DIVA Mega Mix+;39.39;May 26, 2022;['Windows'];13190;93;Absolutamente Positivo;Action
+Sackboy™: A Big Adventure;59.99;Oct 27, 2022;['Windows'];1716;85;Muy Positivo;Adventure
+Cult of the Lamb: Heretic Pack;4.99;Apr 24, 2023;['Windows', 'Mac'];99;97;Muy Positivo;Action,Adventure,Indie,Strategy
+KovaaK's;9.99;Apr 3, 2018;['Windows'];29968;92;Muy Positivo;Action,Indie,Simulation
+Life is Strange Remastered;39.99;Feb 1, 2022;['Windows'];3399;84;Muy Positivo;Action,Adventure
+CONFLICT OF NATIONS: WORLD WAR 3;0.0;Mar 15, 2018;['Windows', 'Mac'];4696;77;Mixto;Free To Play,Indie,Massively Multiplayer,Strategy
+Natsu no Sagashimono ~What We Found That Summer~;11.99;Sep 27, 2024;['Windows'];129;88;Muy Positivo;Casual,RPG
+Dune: Imperium;22.99;Mar 13, 2024;['Windows', 'Mac'];2136;95;Absolutamente Positivo;Simulation,Strategy
+Five Nights at Freddy's: Security Breach;39.99;Dec 16, 2021;['Windows'];58173;86;Muy Positivo;Action,Adventure,Indie
+TaleSpire;24.99;Apr 14, 2021;['Windows', 'Mac'];3577;91;Mayormente Positivo;Indie,RPG,Simulation,Early Access
+Hero's Adventure: Road to Passion;12.05;Nov 15, 2023;['Windows'];17509;84;Mixto;Adventure,Indie,RPG,Simulation
+Endoparasitic 2;10.19;Oct 1, 2024;['Windows', 'Mac', 'Linux'];25;100;Positivo;Action,Indie
+Dungeonborne;0.0;Jul 18, 2024;['Windows'];17059;59;Mayormente Negativo;Action,Adventure,RPG,Strategy,Free To Play,Early Access
+Untitled Goose Game;19.99;Sep 23, 2020;['Windows', 'Mac'];17576;95;Absolutamente Positivo;Action,Indie
+Warhammer 40,000: Battlesector;39.99;Jul 22, 2021;['Windows'];3779;89;Muy Positivo;Strategy
+Batman™: Arkham Origins;19.99;Oct 24, 2013;['Windows'];34581;89;Muy Positivo;Action,Adventure
+DeathSprint 66;24.99;Sep 12, 2024;['Windows'];222;82;Muy Positivo;Action,Racing
+Across the Obelisk;19.99;Aug 16, 2022;['Windows', 'Mac', 'Linux'];9206;82;Mixto;Adventure,Indie,RPG,Strategy
+Gunfire Reborn - Visitors of Spirit Realm;6.99;Aug 28, 2022;['Windows'];964;90;Muy Positivo;Action,Adventure,Indie,RPG
+3on3 FreeStyle: Rebound;0.0;Jul 14, 2020;['Windows'];3408;63;Mixto;Action,Casual,Indie,RPG,Sports,Free To Play
+Slime Rancher;19.99;Aug 1, 2017;['Windows', 'Mac', 'Linux'];110707;97;Absolutamente Positivo;Action,Adventure,Indie,Simulation
+Expeditions: Rome;17.99;Jan 20, 2022;['Windows'];4007;88;Muy Positivo;RPG,Strategy
+Risk of Rain Returns;14.99;Nov 8, 2023;['Windows'];23724;90;Muy Positivo;Action
+Arizona Sunshine® 2;32.99;Dec 7, 2023;['Windows', 'Group_separator'];1094;80;Muy Positivo;Action,Adventure
+Atelier Sophie 2: The Alchemist of the Mysterious Dream;29.99;Feb 24, 2022;['Windows'];1773;94;Muy Positivo;RPG
+RESONANCE OF FATE™/END OF ETERNITY™ 4K/HD EDITION;20.99;Oct 17, 2018;['Windows'];792;79;Mayormente Positivo;RPG
+Riven;34.99;Jun 25, 2024;['Windows', 'Mac', 'Group_separator'];1767;93;Muy Positivo;Adventure,Casual,Indie
+BERSERK and the Band of the Hawk;23.99;Feb 21, 2017;['Windows'];3075;81;Muy Positivo;Action
+Test Drive Unlimited Solar Crown;49.99;Sep 12, 2024;['Windows'];3456;38;Mayormente Negativo;Massively Multiplayer,Racing,Simulation
+Combat Master: Season 2;0.0;Apr 21, 2023;['Windows', 'Mac', 'Linux'];36368;88;Muy Positivo;Action,Free To Play
+FINAL FANTASY VIII - REMASTERED;7.99;Sep 3, 2019;['Windows'];3561;71;Muy Positivo;Adventure,RPG
+Ghostrunner 2;15.99;Oct 26, 2023;['Windows'];5514;82;Mayormente Positivo;Action,Adventure,Strategy
+Pizza Tower;19.99;Jan 26, 2023;['Windows'];55893;98;Absolutamente Positivo;Action,Indie
+Rivals of Aether;29.99;Mar 28, 2017;['Windows'];29776;96;Muy Positivo;Indie
+The Quarry;59.99;Jun 9, 2022;['Windows'];8829;81;Muy Positivo;Adventure
+Borderlands 2: Commander Lilith & the Fight for Sanctuary;14.99;Jun 9, 2019;['Windows', 'Mac'];457;42;Mixto;Action,RPG
+Age of Empires IV:  The Sultans Ascend;14.99;Nov 14, 2023;['Windows'];1376;73;Mixto;Strategy
+Dungeon Alchemist;44.99;Mar 31, 2022;['Windows', 'Mac', 'Linux'];1786;94;Muy Positivo;RPG,Early Access
+The Binding of Isaac: Afterbirth+;35.97;Jan 3, 2017;['Windows', 'Mac', 'Linux'];6248;67;Mixto;Action,Adventure,Indie
+Wizardry: Proving Grounds of the Mad Overlord;26.24;May 23, 2024;['Windows'];714;80;Mixto;Action,RPG
+Expansion - Hearts of Iron IV: Arms Against Tyranny;19.99;Oct 10, 2023;['Windows', 'Mac', 'Linux'];1443;68;Mayormente Positivo;Simulation,Strategy
+American Truck Simulator - Oklahoma;11.99;Aug 1, 2023;['Windows', 'Mac', 'Linux'];380;77;Mayormente Positivo;Indie,Simulation
+Killing Floor 2;29.99;Nov 18, 2016;['Windows'];81034;88;Muy Positivo;Action
+Voidtrain;29.99;May 9, 2023;['Windows'];4376;73;Mayormente Positivo;Action,Adventure,Indie,RPG,Simulation,Early Access
+Starship Troopers: Extermination;29.99;May 17, 2023;['Windows'];25754;85;Mayormente Positivo;Action,Indie,Early Access
+Fears to Fathom - Ironbark Lookout;9.99;Oct 20, 2023;['Windows'];3372;92;Muy Positivo;Adventure,Casual,Indie
+[NINJA GAIDEN: Master Collection] NINJA GAIDEN Σ2;26.79;Jun 9, 2021;['Windows'];1195;76;Muy Positivo;Action,Adventure
+SpaceEngine;29.99;Jun 11, 2019;['Windows'];10424;95;Muy Positivo;Casual,Indie,Simulation,Early Access
+Total War: WARHAMMER III - Champions of Chaos;15.99;Aug 23, 2022;['Windows', 'Mac', 'Linux'];809;69;Mixto;Action,Strategy
+The Sims™ 4 Discover University;39.99;Jun 18, 2020;['Windows'];160;41;Mixto;Casual,Simulation
+Your Only Move Is HUSTLE;4.99;Feb 2, 2023;['Windows', 'Linux'];21517;96;Absolutamente Positivo;Action,Indie,Simulation,Strategy
+Tales from the Borderlands;19.99;Feb 16, 2021;['Windows'];13357;94;Muy Positivo;Adventure
+Beasts of Bermuda;19.99;Dec 21, 2018;['Windows'];6851;71;Mixto;Adventure,Indie,Massively Multiplayer,Simulation,Early Access
+The Jackbox Party Pack 6;29.99;Oct 16, 2019;['Windows', 'Mac', 'Linux'];2150;95;Muy Positivo;Casual,Indie,Strategy
+Brotato;4.99;Jun 23, 2023;['Windows'];76202;97;Absolutamente Positivo;Action,Casual,Indie,RPG
+Door Kickers 2: Task Force North;24.99;Nov 3, 2020;['Windows'];7455;95;Mayormente Positivo;Action,Indie,Simulation,Strategy,Early Access
+Sid Meier's Civilization® VI: Gathering Storm;39.99;Feb 13, 2019;['Windows', 'Mac', 'Linux'];2419;67;Mixto;Strategy
+TEKKEN 7;13.49;Jun 1, 2017;['Windows'];64700;82;Muy Positivo;Action,Sports
+60 Seconds! Reatomized;9.99;Jul 25, 2019;['Windows', 'Mac'];14190;94;Muy Positivo;Adventure,Casual,Indie,Simulation,Strategy
+Dragon Age: Origins - Ultimate Edition;29.99;Oct 26, 2010;['Windows'];23353;87;Muy Positivo;RPG
+THE KING OF FIGHTERS XV;59.99;Feb 16, 2022;['Windows'];7148;83;Muy Positivo;Action
+Wrench;29.99;Dec 19, 2018;['Windows', 'Group_separator'];1313;90;Muy Positivo;Indie,Racing,Simulation,Early Access
+REYNATIS;59.99;Sep 27, 2024;['Windows'];23;78;Mayormente Positivo;Action,Adventure,RPG
+Anger Foot;24.99;Jul 11, 2024;['Windows'];1571;92;Muy Positivo;Action,Indie
