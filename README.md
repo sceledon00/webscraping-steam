@@ -40,10 +40,6 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Autores
 
-Proyecto realizado por **Thiare Guerrero** [Thivre][df1] y **Sebastián Celedón** [sceledon00][df2]
-
-[//]:
-[df1]: <https://github.com/thivre
-[df2]: <https://github.com/sceledon00
+Proyecto realizado por **Thiare Guerrero** [Thivre](https://github.com/thivre) y **Sebastián Celedón** [sceledon00](https://github.com/sceledon00)
 
 **2024-s2 ANALÍTICA INFB6100**
