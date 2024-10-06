@@ -5,9 +5,12 @@
 El presente proyecto explora los factores que contribuyen al éxito de los videojuegos, con un enfoque principal en el análisis de género. Se profundiza en cómo los géneros de videojuegos como de acción, aventura e indie influyen en métricas como reseñas, calificaciones, precios y participación de los jugadores. Utilizando datos de Steam, el estudio investiga las relaciones entre estas variables, ofreciendo información valiosa para desarrolladores, editores y distribuidores a la hora de optimizar sus estrategias para alcanzar el éxito en el mercado. Se trabajo con mas 7000 datos y los hallazgos se presentaron mediante análisis estadísticos, incluidas pruebas ANOVA y Levene ente otras.
 
 ## Contenido
-Webscpraing steam.ipynb: Codigo utilizado tanto para la extracción de los datos como su posterior limpieza y analisis
-Analitica Webscraping Steam.pdf: Informe realizado en latex donde se menciona todo el desarrollo del proyecto y el porqué se escogieron
-df_juegos_limpio.csv: Archivo que contiene los datos extraidos de la pagina de steam, especificamente la sección de novedades, como indica su nombre ya cuenta con su respectiva limpieza (960 juegos y 8 columna de datos)
+- Webscpraing steam.ipynb: Codigo utilizado tanto para la extracción de los datos como su posterior limpieza y analisis.
+  
+- Analitica Webscraping Steam.pdf: Informe realizado en latex donde se menciona todo el desarrollo del proyecto y el porqué se escogieron ciertos parametros.
+  
+- df_juegos_limpio.csv: Archivo que contiene los datos extraidos de la pagina de steam, especificamente la sección de novedades, como indica su nombre ya cuenta con su respectiva limpieza (960 juegos y 8 columna de datos)
+
 
 ## Teconologías aplicadas 
 - Google colab.
