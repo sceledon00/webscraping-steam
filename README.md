@@ -42,11 +42,8 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 
 Proyecto realizado por **Thiare Guerrero** [Thivre][df1] y **Sebastián Celedón** [sceledon00][df2]
 
-
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-
-
-   [df1]: <https://github.com/thivre
-   [df2]: <https://github.com/sceledon00
+[//]:
+[df1]: <https://github.com/thivre
+[df2]: <https://github.com/sceledon00
 
 **2024-s2 ANALÍTICA INFB6100**
