@@ -44,7 +44,7 @@ Este notebook cuenta con la extracción de los datos y la posterior manipulació
 
 ## _df_juegos_limpio.csv_:
 
-Archivo csv utilizado para el análisis su visualización, si se desea no realizar el webscraping, puede implementar este archivo desde la sección de "Visualización y Análisis de datos" que se encuentra en el código principal (Webscraping steam.ipynb)
+Archivo csv utilizado para el análisis su visualización, si se desea no realizar el webscraping, puede implementar este archivo desde la sección de "Visualización y Análisis de datos" que se encuentra en el código principal (Webscraping steam V2.ipynb)
 
 ## Licencia
 
