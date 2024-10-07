@@ -38,7 +38,7 @@ Se trabajó con más 7000 datos y los hallazgos se presentaron mediante análisi
 
 ## Uso
 
-## _Webscapring steam.ipynb_:  
+## _Webscapring steam V2.ipynb_:  
 
 Este notebook cuenta con la extracción de los datos y la posterior manipulación de estos, además cuenta con las instalaciones de las librerías necesarias en caso de no contar con estas, por ende su uso se limita al navegador web, el cual se utilizó "Brave" y se recomienda configurarlo como predeterminado.
 
